@@ -1,0 +1,2152 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 73268 ***
+
+
+  ####################################################################
+
+                     Anmerkungen zur Transkription
+
+  Der vorliegende Text wurde anhand der Buchausgabe von 1919 so weit
+  wie möglich originalgetreu wiedergegeben. Typographische Fehler
+  wurden stillschweigend korrigiert. Ungewöhnliche und heute nicht
+  mehr verwendete Schreibweisen bleiben gegenüber dem Original
+  unverändert; fremdsprachliche Ausdrücke wurden nicht korrigiert.
+  Schreibvarianten, insbesondere bei Orts- und Personennamen, wurden
+  nicht vereinheitlicht.
+
+  Besondere Schriftschnitte werden im vorliegenden Text mit Hilfe der
+  folgenden Symbole gekennzeichnet:
+
+        kursiv:   _Unterstriche_
+        gesperrt: +Pluszeichen+
+
+  ####################################################################
+
+
+
+
+                         KURT PFISTER/REMBRANDT
+
+
+
+
+                             [Illustration:
+
+                     Phot. F. Hanfstaengl, München
+
+                          Selbstbildnis 1669]
+
+
+
+
+                               REMBRANDT
+
+                                  VON
+
+                              KURT PFISTER
+
+                           MIT 50 ABBILDUNGEN
+
+
+                             [Illustration]
+
+                         DELPHIN-VERLAG/MÜNCHEN
+
+
+
+
+    Copyright 1919 by Delphin-Verlag, Dr. Richard Landauer, München
+              Gedruckt von Emil Herrmann senior in Leipzig
+
+
+
+
+ABBILDUNGSVERZEICHNIS
+
+
+  Abb. 1 Selbstbildnis 1669 (Grittleton House) B. 507.         Titelbild
+
+   „   2 Die Judenbraut 1668 (Amsterdam, Reichsmuseum)
+           B. 538.                                      gegenüber S.   6
+
+   „   3 Anatomie des Professor Tulp 1632 (Haag, Museum)
+           B. 55.                                           „     „    7
+
+   „   4 Die Staalmeesters 1661-1662 (Amsterdam,
+           Reichsmuseum) B. 486.                            „     „   16
+
+   „   5 Saskia als Braut 1633 (Berliner Kupferstichkabinett)
+           H. d. G. 99.                                     „     „   16
+
+   „   6 Selbstbildnis Rembrandts mit seiner Gattin Saskia
+           1634 (Dresden, Gemäldegalerie) B. 157.           „     „   17
+
+   „   7 Danae 1636 (St. Petersburg, Eremitage) B. 194.     „     „   17
+
+   „   8 Saskia mit der roten Blume 1641 (Dresden,
+           Gemäldegalerie) B. 264.                          „     „   18
+
+   „   9 Bildnis der Hendrickje Stoffels 1652 (Paris,
+           Louvre) B. 350.                                  „     „   19
+
+   „  10 Hendrickje Stoffels im Bett 1657 (Edinburg,
+           Nationalgalerie) B. 43.                          „     „   20
+
+   „  11 Bildnis der Hendrickje Stoffels 1658-1659 (Berlin
+           Kaiser Friedrich Museum) B. 437.                 „     „   20
+
+   „  12 Bildnis des Jan Six 1654 (Amsterdam, Galerie Six)
+           B. 371.                                          „     „   21
+
+   „  13 Rembrandts Bruder Adriaen 1650 (Haag, Museum)
+           B. 355.                                          „     „   21
+
+   „  14 Rembrandts Sohn Titus 1656 (Wien, Museum)
+           B. 443.                                          „     „   22
+
+   „  15 Familienbild 1668-1669 (Braunschweig, Museum)
+           B. 539.                                          „     „   23
+
+   „  16 Selbstbildnis 1634 (Berlin, Kaiser Friedrich
+         Museum) B. 167.                                    „     „   24
+
+   „  17 Selbstbildnis 1640 (London, Nationalgalerie)
+           B. 256.                                          „     „   24
+
+   „  18 Rembrandt zeichnend 1645. B. 22.                   „     „   25
+
+   „  19 Selbstbildnis 1660 (Paris, Louvre) B. 434.         „     „   26
+
+   „  20 Selbstbildnis 1668 (Berlin, Frau v. Carstanjen)
+           B. 506.                                          „     „   27
+
+   „  21 Die Landschaft mit den Kühen zwischen 1635-1640
+           (Berliner Kupferstichkabinett) H. d. G. 164.     „     „   28
+
+   „  22 Kanal mit Boot 1650 (Berliner
+           Kupferstichkabinett) H. d. G. 180.               „     „   28
+
+   „  23 Die Windmühle 1641. B. 233.                        „     „   28
+
+   „  24 Die Landschaft mit dem Turm 1648 B. 223.           „     „   29
+
+   „  25 Die Landschaft mit dem Milchmann 1650 B. 213.      „     „   29
+
+   „  26 Landschaft 1638 (Braunschweig, Museum) B. 231.     „     „   30
+
+   „  27 Winterlandschaft 1646 (Kassel, Galerie) B. 341.    „     „   31
+
+   „  28 Ein geschlachteter Ochse 1655 (Paris, Louvre)
+         B. 421.                                            „     „   32
+
+   „  29 Die Mühle 1650 (Bowood, Landsdowne) B. 345.        „     „   33
+
+   „  30 David im Gebet 1652 B. 41.                         „     „   36
+
+   „  31 Der heilige Hieronymus im Gebet 1632 B. 101.       „     „   36
+
+   „  32 Die heilige Familie (Frühzeit) B. 62.              „     „   36
+
+   „  33 Der barmherzige Samariter 1648 (Paris, Louvre)
+           B. 328.                                          „     „   37
+
+   „  34 Christus in Emaus 1661 (Paris, Louvre) B. 519.     „     „   37
+
+   „  35 Die heilige Familie im Zimmer 1654. B. 63.         „     „   40
+
+   „  36 Die Kreuztragung (Frühzeit) H. d. G. 71.           „     „   40
+
+   „  37 Christus treibt die Händler aus dem Tempel 1635
+           B. 69.                                           „     „   41
+
+   „  38 Die heilige Familie 1646 (Kassel, Galerie)
+           B. 252.                                          „     „   41
+
+   „  39 Die Flucht nach Ägypten 1654 B. 55.                „     „   44
+
+   „  40 Die Kreuzabnahme bei Fackelschein 1654 B. 83.      „     „   44
+
+   „  41 Moses zerschmettert die Gesetzestafeln 1659
+         (Berlin, Kaiser Friedrich Museum) B. 409.          „     „   45
+
+   „  42 Jakob ringt mit dem Engel 1660 (Berlin, Kaiser
+           Friedrich Museum) B. 410.                        „     „   45
+
+   „  43 Christus an der Martersäule 1656 (Berlin, Frau
+           von Carstanjen) B. 317.                          „     „   48
+
+   „  44 Christus am Ölberg H. d. G. 66.                    „     „   49
+
+   „  45 David vor Saul 1665 (Haag, Museum) B. 529.         „     „   52
+
+   „  46 David, vor Saul die Harfe spielend 1630-1631
+          (Frankfurt a. M. Städelsches Kunstinstitut.)      „     „   52
+
+   „  47 Die Anbetung der Hirten 1646 (München, Alte
+           Pinakothek) B. 315.                              „     „   53
+
+   „  48 Die Predigt Christi 1652 B. 67.                    „     „   53
+
+   „  49 Die Anbetung der Könige 1657 (London,
+           Buckingham-Palast) B. 406.                       „     „   56
+
+   „  50 Die Rückkehr des verlorenen Sohnes 1668-1669
+           (St. Petersburg, Eremitage) B. 533.              „     „   56
+
+  Die Zahlen mit dem Zusatz H. d. G. verweisen auf den von dem
+  holländischen Forscher Hofstede de Groot gearbeiteten Katalog der
+  Handzeichnungen Rembrandts, der Zusatz B. auf den Katalog der
+  Radierungen, den Bartsch zusammengestellt hat.
+
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Die Judenbraut]
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Anatomie des Professor Tulp]
+
+
+
+
+Es soll hier die Gebärde eines Schaffenden gedeutet werden.
+
+Nicht die Legende seines täglichen Lebens. Man kann gewiß (Hofstede de
+Groot hat in einer sehr sorgfältigen Sammlung den Versuch unternommen)
+Urkunden und Dokumente zusammenstellen und so ein Gerüst des äußeren
+Lebens errichten. Aber alles, was über die Feststellung solcher
+Tatsächlichkeiten hinausgeht, -- Länder und Städte, deren Dunst und
+Rhythmus einer in sich einsog, Frauen, die er liebte, Freunde, die um
+ihn standen oder auch nur Duft und sanftes Dunkel eines Sommerabends,
+in den er schritt -- alles dies entzieht sich begrifflicher
+Festlegung und erschließt sich nur, in seltener Stunde der Gnade, dem
+ahnungsvollen Gefühl des Liebenden.
+
+Nichts von Katalog und Inventar. Der kunstphilologischen und
+kunstwissenschaftlichen Arbeit von Bode, Neumann, Hofstede de Groot,
+Bredius, Bartsch und anderen danken wir die (im großen und ganzen
+endgültige) Festlegung des Rembrandtschen Werkes. Aber wir sind doch
+alle darin einer Meinung, daß dadurch nur die allerdings unerläßliche
+Grundlage geschaffen wurde, auf der die eigentliche Arbeit, das
+Jakobsringen um das Werk, erst zu geschehen hat.
+
+Wiederum außerhalb des gesteckten Zieles: Hymnische, aus dichterischem
+Gefühl quellende Lobpreisung. Wer literarische Verklärung erwartet,
+wird zu Fromentins oder auch Verhaerens von schöner Begeisterung
+erfüllten Betrachtungen greifen.
+
+Auch, was eher reizen konnte, die weltanschauliche Grundlage der
+Rembrandtschen Kunst zu untersuchen, wie das Simmel unternahm, liegt
+nicht unbedingt in der Richtung des hier eingeschlagenen Weges. Eine
+solche Betrachtungsweise führt notwendig, gerade Simmels überaus
+wertvolles Buch liefert den Beweis, zu allgemeinsten Feststellungen
+philosophischer und psychologischer Natur, zu einer Betrachtung der
+Gesetze künstlerischen Schaffens, und die eigentlich künstlerischen
+Tatbestände, das individuelle Formproblem, verflüchtigen sich im
+metaphysischen Chaos.
+
+Hier soll die Gebärde eines Schaffenden gedeutet werden.
+
+Gebärde ist sinnlicher Ausdruck innerer Gesichte. In die Sprache
+der Kunstbetrachtung übersetzt: Seelischer Antrieb wird körperlich
+vermittels Farbe und Umriß.
+
+Es geht um das Problem der Entwicklung von Rembrandts Bildgestaltung.
+Auf diesem Wege will das höchste Ziel einfühlender Betrachtung
+erreicht werden: Einsicht in Form und Gesichte dieses Schaffenden.
+Denn dies ist Ergebnis der Entwicklung und wird nur durch Erkenntnis
+ihrer Eigenart deutlich: Wie das seelische Substrat sich weitet und
+vertieft und sich zugleich immer lauterer in der Form verwirklicht.
+(Damit ist zugleich der Standpunkt gegenüber Wölfflins bahnbrechender
+Kategorienlehre bezeichnet, die ihre Aufgabe in der Darlegung des
+sinnlich wahrnehmbaren Entwicklungsablaufs sieht, ohne die seelische
+Kausalität in die Betrachtung einzubeziehen.)
+
+Wie ein riesiger Gebirgsblock ragt das Werk des Mannes aus der Ebene.
+Es gilt Umriß und organische Struktur der kolossalischen Masse in ihrer
+Ganzheit zu erweisen. Aber man soll in keinem Augenblick übersehen:
+Dieses Werk ist ein Komplex, keine Kategorie. Unmöglich, die gewaltige
+Masse in einmaligem Anlauf zu bewältigen. Von drei Seiten her, in
+dreimaliger Wanderung wurde der Versuch unternommen; indem Bildnis,
+Landschaft und religiöse Szene gesondert -- keineswegs zusammenhanglos
+-- betrachtet wurden.
+
+Die Scheidung in stoffliche Kategorien ist kein äußerlicher Eingriff.
+Nicht nur, daß das gegenständliche Gesicht der Dinge für Rembrandt in
+schwer abzuschätzendem Maß bei Auslösung seelischer Erlebnisse wirkt.
+Die Schichtung bringt irgendwie auch den organischen Sinn der wie
+Gleichnis und Urgesetz sich vollziehenden Entwicklung zum Ausdruck:
+Wie der junge Künstler mit Vorliebe in subjektiver Geste das Bild des
+individuellen Menschen gestaltet; wie der reife Mann das in der Natur
+und Sichtbarkeit ruhende Maß der Dinge in sich aufnimmt; wie das
+Alterswerk in religiöse Verklärung mündet.
+
+Der Name Rembrandt bedeutet das umfassendste Problem abendländischer
+Kunstgeschichte, soweit der Künstler überhaupt als Einzelerscheinung
+in Frage steht. Wer über Rembrandt schreibt, wird sich daher immer des
+notwendig Bruchstückhaften der Bemühung bewußt bleiben.
+
+Wiederum: Dies Werk ist zu gewaltig, um es zum Gegenstand dialektischer
+Turniere, geistreicher Paradoxien zu machen. Es genüge, mit einfachen
+Worten das auszusprechen, was gewiß viele der Generation ahnend
+empfinden, wenn sie in Ehrfurcht den Namen Rembrandts nennen.
+
+Ziel bleibt immer: Deutung der Gebärde als Versinnlichung der
+seelischen Gesichte.
+
+
+
+
+Was immer an Lebensgefühl und Geistigkeit zum Wesen des Menschen
+gehört, setzt sich irgendwie in eine körperliche Form um. Ob sie
+als Gebärde einer Hand, als Rhythmus des Ganges, als Linie der
+Mundwinkel, als Klang eines Lachens in die Erscheinung tritt: wenn
+man das Zufällige und Gleichgültige vom Wesentlichen, das Ererbte vom
+Selbsterworbenen und Entwickelten zu unterscheiden weiß, wird die
+zwingende Eindeutigkeit solcher Wechselwirkung offenkundig.
+
+Nicht in täuschender Wiedergabe der menschlichen Erscheinung, nicht in
+der Deutung seelischer Problematik, sondern in der vermittels Farbe und
+Fläche geschehenden Versinnlichung jenes Umbildungsvorganges, vermöge
+dessen sich die geistige Art in körperliche Form ausprägt, ist der
+Sinn europäischer Bildnismalerei im 16. und 17. Jahrhundert zu suchen.
+Im Rahmen solch allgemeinster Begrenzung bedeuten die schöpferischen
+Bildnismaler Leonardo, Tizian, Velazquez im Süden, Holbein, Hals,
+Rubens, Rembrandt im Norden in sich ruhende eigengesetzliche Welten.
+Allein in der Art, wie +Rembrandt+ den Menschen sieht und formt, ist
+ein Stück vom Wesen aller starken Menschenbildnerei enthalten. Manche
+seiner Porträts lassen an Velazquez’ malerische Haltung, andere an
+Holbeins Form und wieder andere an Leonardos Gefühl denken; ohne daß
+sein eigenes Wesen durch solchen Zustrom sich jemals verwirren konnte.
+
+       *       *       *       *       *
+
+Der +junge Rembrandt+ hat sich als Bildnismaler überraschend schnell
+durchgesetzt. Schon bald nach seiner Übersiedelung von Leyden nach
+Amsterdam, die er wohl im Jahre 1631, also etwa im Alter von 25 Jahren
+bewerkstelligte, kann er als der bevorzugteste Porträtist der vornehmen
+bürgerlichen Gesellschaft Amsterdams gelten. Es liegt im Wesen der
+Sache begründet, daß solch durchgreifender Erfolg das Ergebnis eines
+Kompromisses ist. Der Bürger, der sein Bildnis seiner Familie und
+seinen Nachkommen hinterläßt, wird sich in den seltensten Fällen der
+revolutionären Gebärde des gärenden Genies anvertrauen. Und so wird man
+in diesen Porträts kein stürmisches Rütteln an überkommener Fessel,
+selten genug den anderen Jugendwerken des Künstlers eigentümlichen
+pathetischen Überschwang wiederfinden. Hier ist vielmehr zu einem guten
+Teil Tradition und eine durchaus bürgerliche, dem geistigen Format des
+Dargestellten kongeniale Gesinnung lebendig.
+
+Der schnelle Erfolg wäre aber undenkbar, wenn nicht eine bedeutende
+innere Überlegenheit Gleichalterigen und Mitstrebenden gegenüber
+vorhanden wäre. In der Tat, wenn man, ohne auf einzelne Namen zu
+achten, durch die holländischen Säle eines unserer Museen geht, halten
+die Bildnisse des jungen Rembrandt, bisweilen sogar, wenn sie nur in
+leidlichen Werkstattwiederholungen oder Kopien vorhanden sind, vor
+andern zeitgenössischen Werken den Blick fest. Es liegt wohl in der
+warmen, satten und geschmeidigen Tönung, in irgend einer eindringlichen
+Gebärde der Hände, des Antlitzes, in der psychischen Gehaltenheit und
+Bindung bildbauende Wirkung.
+
+Das geistige Format dieser Bilder wirkt zunächst überraschend
+stark, was damit zusammenhängen mag, daß der Blick, in dem sich die
+Energien sammeln, alle Aufmerksamkeit auf sich vereinigt. Aber bei
+längerer Betrachtung -- der martialisch ausgerüstete und zierlich
+gelockte Offizier (New-York, Sammlung Charles T. Yerkes aus dem Jahre
+1632) gleicht eher einem eleganten Kavalier, als einem handfesten
+Kriegshelden, zu dem ihn Bewaffnung und Armgeste bestimmen wollen;
+das Lächeln der jungen Frau (New-York, Sammlung Morris K. Jesup, um
+1633) klingt ein wenig konventionell und gezwungen; die Haltung des
+Gelehrten auf dem Bilde der Eremitage (vom Jahre 1631) ist zu sehr
+auf die Betrachtung des Beschauers eingestellt; in den durchfurchten
+Greisenköpfen, wie solche mehrere aus den Jahren 1632 und 1633 erhalten
+sind, sind die Furchen des Schicksals vielleicht zu absichtlich, zu
+bewußt eingegraben.
+
+Am meisten altertümlich und unfrei wirken die Gruppendarstellungen.
+Die Anordnung jenes Bildnisses eines Ehepaars (Boston, Sammlung
+Gardner, 1633) -- der Mann in gespreizter Pose dastehend, die Gattin
+lässig auf einem Sessel hingebreitet, die beiden nebeneinander ohne
+alle geistige und formale Verbindung -- läßt an die Hochzeitsaufnahme
+übler Photographen denken. In der Erinnerung taucht daneben jenes
+späte, juwelenhaft flimmernde Gattenbild auf, die sogenannte Judenbraut
+in Amsterdam vom Jahre 1668, wo die ergreifende Gebärde des Mannes
+unvergleichlich überzeugend seelische Gemeinschaft versinnlicht.
+
+Merkwürdig gezwungen und phantasiearm die Anordnung der acht geistlosen
+gleichgültigen Köpfe auf der Anatomie des Professors Tulp (vom Jahre
+1632), von denen einige mit krampfhafter Spannung dem Vortrag zuhören,
+während andere den Beschauer verbindlich anlächeln. Gewiß, die
+Anatomie, die elf Jahre vorher Thomas de Keyser malte (im Reichsmuseum
+zu Amsterdam), wirkt um vieles flacher und hölzerner; aber wer vermag
+es, den Notwendigkeiten der Entwicklung mit immer gerecht bleibendem
+Urteil zu folgen? Die starken und glücklich ausgetragenen Schöpfungen
+bleiben lebendig, aber die zahlreichen kleinen und mühsamen Stufen,
+auf denen man zu ihnen gelangte, werden notwendig um vieles geringer
+gewertet. Zumal es unmöglich ist, zu vergessen, mit welch hinreißendem
+Schwung Rembrandt selbst später solche Gruppenprobleme gelöst hat: in
+der sogenannten Nachtwache (Amsterdam, vom Jahre 1642), wo das pralle
+Sonnenlicht, die Helligkeiten und Dunkelheitsmassen, das Bild bauen,
+die Menschenmenge rhythmisieren; in der Anatomie des Dr. Deymann
+(Amsterdam, vom Jahre 1656), -- von der Anlage des halbzerstörten
+Originals legt eine Handzeichnung in der Sammlung Six in Amsterdam (H.
+d. G. 1238) Zeugnis ab -- wo der riesige Pfeiler im Hintergrund, aus
+dem die Menschen wie aus einem Baume wachsen, gültige Festigung und
+Sammlung bedeutet; in den Staalmeesters endlich (Amsterdam, aus dem
+Jahre 1661), wo nichts gestellt, nichts komponiert ist, vielmehr jede
+einzelne Bewegung, die Anordnung im ganzen organisch und naturhaft
+gewachsen ist, wo alle Erscheinung zu stärkster Vereinfachung
+zusammengefaßt -- indem sich die Form in der Linie festigt und die
+Farbigkeit fast monochrom abgedämpft wird -- ihren ruhenden Ausdruck
+findet: so daß Steigerung oder irgendwelche Veränderung undenkbar
+erscheinen.
+
+Deutliche Zusammenhänge mit der einheimischen Tradition, aber dabei, in
+vielen Arbeiten, ein beträchtliches Hinauswachsen und Überragen der
+zeitgenössischen Produktion ist kennzeichnend für das Bildniswerk des
+jungen Rembrandt.
+
+       *       *       *       *       *
+
+Im Mittag seines Lebens hat Rembrandt häufig und mit besonderer Liebe
+das Bild der beiden Frauen geformt, die Tisch und Bett mit ihm teilten:
+Saskia von Uylenburgh, die er 1634 ehelichte -- sie starb 1642 -- und
+Hendrickje Stoffels, die einige Jahre nach Saskias Tod in sein Haus kam
+und 1663 starb.
+
+Wir wissen einiges von Herkunft und Art beider Frauen. Es bedeutete
+wenig, wenn das Werk nicht Zeugnis ablegte, wie sie als eigentlichen
+und einzigen Sinn ihres Daseins hemmungslose Hingabe, Ausstrahlung
+ihres fraulichen Wesens in seines empfanden; wie sehr jede der beiden
+ihm alles war, was die Frau dem Schaffenden nur sein kann: Mutter,
+Geliebte, Stoff der Schöpfung, zugleich Anreiz und Erfüllung.
+
+Die Dresdener Galerie besitzt die entscheidenden Bildnisse der Saskia.
+Da hängt, noch im Jahr vor der Hochzeit entstanden, das Porträt der
+jungen Frau: völlig mädchenhafte Formen, ein rundes warmes Gesicht,
+eine ungemein frische, lebendig bewegte Erscheinung, die durchaus im
+Zustand des Augenblicklichen gefaßt wird: Die jähe Wendung des Kopfes
+zum Beschauer hin, ein pralles Lachen, das über das volle Gesicht
+stürzt, ein starkes Lichtfluten auf Hals und Schulter, das leuchtende
+Rot des Samtbaretts im lebhaften Kontrast zum glänzenden Blau des
+Kleides.
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Die Staalmeesters]
+
+[Illustration: Saskia als Braut]
+
+Zu schärfster schriller Disharmonie gesteigert ist dieser Eindruck
+jäher augenblicklicher Erscheinung in dem etwa im Jahre darnach
+entstandenen Bild, wo Saskia mit ihrem Gatten beim Frühstück sitzt. (Es
+ist ein bezeichnendes Zeugnis der heutigen landläufigen Einstellung,
+daß dieses Werk, ebenso wie das Berliner Selbstbildnis von 1634, zu
+den populärsten Schöpfungen Rembrandts gehört.) Was Frans Hals aus
+der Fülle triebhaften Erlebens so schlagend gelang, die Lust
+schäumender Feste auf Leinwand zu setzen, hat Rembrandt mit gleicher
+Unbefangenheit nie vermocht. Seine Freude wirkt krampfhaft lustig,
+nicht herzhaft fröhlich. Eine merkwürdige Unruhe wird fühlbar, die
+vielleicht in der überstürzten Hast der Bewegungen, vielleicht in
+der übertriebenen Häufung von Schmuck und Kleiderpracht oder in der
+unruhigen Farbgebung ihren Grund hat.
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Selbstbildnis Rembrandts mit seiner Gattin Saskia]
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Danae]
+
+Am porträtähnlichsten wirkt der Kopf, wenn man von der wundervollen
+unberührten und zarten Silberstiftzeichnung des Berliner
+Kupferstichkabinetts, die Saskia als Braut darstellt, absieht, auf
+einer im Jahre 1637 entstandenen Radierung (B 367), an der Rembrandt,
+wie die verschiedenen Zustände bezeugen, mit besonderer Liebe
+gearbeitet hat. Der wundervolle Körper der Frau aber ist in seiner
+lebendig vibrierenden Pracht in der Danae der Eremitage geformt.
+
+Im Jahre 1641, ein Jahr vor Saskias Tod, hat Rembrandt das letzte
+Bild der Gattin gemalt: Saskia mit der Nelke. (Das Berliner Bild
+ist, worauf Bode hingewiesen hat, erst nach dem Tode der Saskia
+fertiggestellt worden.) Die farbige Erscheinung ist zu dem tiefen Rot
+des Kleides und dem Braun des darübergelegten Schleiers beruhigt.
+Ganz selbstverständlich auch die Haltung der Frau. Das Antlitz wenig
+zur Seite geneigt, leicht überflogen von einem kindlich scheuen
+und zugleich fraulich weichen Schimmer, die Hände ohne Zwang und
+Bewußtheit, die eine auf der Brust liegend, die andere mit der roten
+Nelke, der geschwellte Leib in weitem, langsam fallendem Gewand:
+Im Sommer dieses Jahres 1641 gebar Saskia den Knaben Titus, und es
+scheint, daß sie an den Folgen der schweren Geburt weiter kränkelte,
+bis sie dann im folgenden Jahre starb.
+
+Von Art und Einfluß der Amme des kleinen Titus, der Geertje Dirks, die
+in den nächsten Jahren nach Saskias Tod Rembrandts Haus versorgte,
+haben wir keine hinreichend klare Vorstellung. Es konnte bisher kein
+Werk mit genügender Sicherheit als ihr Bildnis namhaft gemacht werden.
+
+Die Frau, die dann vom Ende der vierziger Jahre an bis zu ihrem Tode
+durch fast anderthalb Jahrzehnte in Rembrandts Haus lebte, war die
+Magd Hendrickje Stoffels. Eines der frühesten Werke, in dem man mit
+gutem Grund ihr Bild erkennt, hängt im Louvre, entstanden um 1652.
+Die Frau ist fast frontal genommen und dadurch wird von vornherein
+der Akzent vom Eindruck augenblicklicher Aktion weg auf die Wirkung
+dauernder Wesensgestaltung gelegt. Dazu stimmt auch die ruhige Haltung
+des Körpers, die heitere, stille, kaum bewegte Gehaltenheit der
+Gesichtszüge.
+
+In dem Edinburger Bildnis wird das Thema der Frau, die den Geliebten
+in ihrem Bette erwartet, wieder aufgegriffen. (Denn nichts anderes
+war der Gegenstand der vorhin erwähnten Petersburger Danae.) Aber
+alles ist anders geworden. Jedwedes Beiwerk ist hier gelöscht: Kein
+prunkvoller Raum, keine Dienerin, kein schwellendes Lager, kein
+wollüstig gelagerter Körper -- aus dem tiefroten Vorhang hebt sich
+das Weib dem Manne entgegen, von Verlangen durchflutet Auge, Brust und
+die Gebärde der Arme.
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+Saskia mit der roten Blume]
+
+[Illustration:
+
+  Phot. Braun & Co., Dornach u. Paris
+
+Hendrickje Stoffels 1652]
+
+Die reife schöpferische Zusammenfassung seiner Idee vom Weiblichen
+hat Rembrandt im Berliner Bild der Hendrickje von 1558 gegeben. Die
+Frau, die da mit leicht vorgeneigtem Oberkörper, mit leise lächelnden
+Augen und hochgehobenem Arm im Fenster lehnt, bekleidet mit einem
+Gewand, dessen schimmernder Reichtum in tiefem, strahlendem Rot seinen
+herrschenden Grundton hat, ist nicht die arme Magd Hendrickje Stoffels,
+die ihrem Herrn, dem Maler Rembrandt, demütig mit Leib und Seele ein
+Leben lang diente: hier ist die Frau, die begreifende, die gütige
+geformt, der Liebe und Hingabe tiefste Erfüllung ihres Seins bedeutet.
+Wenn wir es nicht von gelegentlichen Dokumenten her wüßten, dieses
+Bildnis würde es bezeugen, daß für Rembrandt, den das Leben sonst oft
+mit harter Geißel schlug, die Frau nicht tragische Hemmung, sondern
+Befreiung von starken Lebenstrieben und Antrieb zu schöpferischem Werk
+wurde.
+
+       *       *       *       *       *
+
+Im letzten Jahrzehnt seines Lebens hat Rembrandt nur wenige
+Porträtaufträge ausgeführt. Die Bestellungen mögen ausgeblieben
+sein. Denn wenn auch der junge Künstler als Bildnismaler alle seine
+Mitbewerber übertraf, wenn auch die Landschaften und Radierungen seiner
+reifen Mannesjahre von Kennern hochgeschätzt wurden: den Alterswerken,
+wir wissen es aus gelegentlichen Äußerungen und Auktionsberichten,
+haben Bürger und Geldadel in Amsterdam wenig Verständnis
+entgegengebracht. Sie galten als unfertig, roh, dilettantisch. Anderen
+Künstlern gefälligeren aber geringeren Formates gehörte die Neigung
+des Publikums. So hat Rembrandt in diesen Jahren, abgesehen von
+mehr oder weniger ausgeführten Studien nach Bewohnern des jüdischen
+Stadtviertels, in dem er wohnte, fast nur Bildnisse von Menschen, die
+ihm verwandtschaftlich oder als Freunde nahestanden, geschaffen.
+
+Der farbigen Erscheinung dieser Bilder ist das gemeinsam, daß trotz des
+schillernden Reichtums der Palette das Werk nie bunt, selten auch nur
+farbig wirkt. Die Polyphonie ruht auf einem in der Tiefe schwingenden
+Grundakkord; oder aber die Erscheinung ist auf das Zusammengehen von
+hellen und dunklen Massen, nicht wie früher von Licht und Schatten
+eingestellt. Die Frage nach photographisch treuer Wiedergabe der
+Wirklichkeit ist hier ohne Belang. Auch was man sonst wohl als
+Aufgabe und Kennzeichen echter Bildniskunst bezeichnet, das Wesen des
+Dargestellten in der Form zu deuten, ist hier nicht entscheidendes
+Ziel. Vielmehr: was an Geistigem, an Seelischem in dem Menschen, der
+Magdalena van Loo, Titus, oder sonst wie heißt, ruht, wird in Gebärde
+und Farbe verwirklicht. Es wird nicht etwa ein Schnitt durch das
+menschliche Wesen des Dargestellten gelegt, sondern gewissermaßen die
+unwirkliche, traumhaft geahnte Idee seines Wesens geformt.
+
+[Illustration:
+
+  Phot. Braun & Co., Dornach u. Paris
+
+Hendrickje Stoffels im Bett]
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+Bildnis der Hendrickje Stoffels 1658-1659]
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+Bildnis des Jan Six]
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+Rembrandts Bruder Adriaen]
+
+Einer dieser Menschen ist Jan Six, der ein Vierteljahrhundert nach
+Rembrandts Tod Bürgermeister von Amsterdam geworden ist. Man nimmt an
+-- es gibt freilich Umstände, die dagegen zu sprechen scheinen --,
+er habe mit dem Meister häufigen und vertrauten Verkehr gepflogen.
+Rembrandt hat eine Skizze in Öl, eine Radierung und ein Gemälde
+nach ihm geschaffen. Das Gemälde (in Amsterdam) aus dem Jahre 1654.
+Unvergeßlich der machtvolle Zusammenklang des brennenden Rot, des
+tiefen beruhigten Grau, des gesättigten Gelb. Fast alles in prima
+gemalt, oft nur in wenigen Strichen, wie mit Spachtel hingesetzt.
+Unvergeßlich vor allem der Ausdruck des früh-alten, leicht zur Seite
+geneigten Antlitzes, das von heimlicher, tiefer Melancholie, wie von
+dunklem, unter der Haut rinnendem Blut durchströmt ist. Die 1647
+entstandene Skizze, Six im Fenster stehend, wirkt daneben als harmlose
+Lichtstudie: Kopf gegen das grelle Sonnenlicht gestellt. Bei der
+Radierung aus dem gleichen Jahr (B 285), die ein ähnliches Problem löst
+-- Kopf vor dem ruhigen Abendhimmel --, stört das genrehafte Beiwerk
+des Zimmer-Innenraumes.
+
+Ähnliches ist von einer Gruppe von Bildern zu sagen, in denen man (nach
+Bodes Vorgehen) Porträts von Rembrandts Bruder Adriaen sieht. Das
+schönste befindet sich im Haag (entstanden 1650). Auch hier ist alles
+auf psychische Durchleuchtung abgestellt. Alter, Armut und Sorge haben
+die Züge zerfressen, aber das Auge des armseligen Schuhmachermeisters
+ist von solcher Weite des Schauens, die Züge von Feierlichkeit so
+erfüllt, daß das Werk zu einer wundersamen Verklärung menschlichen
+Leidens wird.
+
+Die Titusbilder geben die Verklärung des jungen Menschen, wie sie von
+Leonardo bisweilen ähnlich versucht wurde. Hier wird nicht körperliche
+Schönheit, sondern das Schwebende, Unberührte, Traumhafte des jungen
+Seins geformt. Nichts bringt das mehr zum Ausdruck als die Aufhellungen
+spiritueller Art, die (in dem Wiener Bild etwa) über Gesicht und Hände
+hingehen.
+
+       *       *       *       *       *
+
+Alle diese gelösten jubelnden Einzelstimmen sammelt das Braunschweiger
+Familienbild (1668) zu breit und feierlich strömender Symphonie. Hier
+ist alle Form in zuckende, flimmernde Atome gelöst und zugleich wird
+in Umriß und plastischer Durchbildung ihr unbewegt ruhendes Sein
+gestaltet. Wie der Mann stark und frei dasteht, die Frau sich gütig
+und mütterlich neigt, wie die Kinder in blühendem Jungsein einander
+anlächeln: nie wurde im Abendland mit gleicher Kraft und Unbedingtheit
+tiefste Bindung menschlichen Schicksals geformt.
+
+       *       *       *       *       *
+
+Die Selbstbildnisse, die in ununterbrochener Folge das Schaffen
+begleiten, ergeben, als Kunstschöpfungen betrachtet, naturgemäß
+im allgemeinen die Bestätigung der hier angedeuteten formalen und
+geistigen Entwicklung. Aber diese Werke, die den Meister in jedem
+Lebensalter, von jeglichem Lebensgefühl bewegt, zeigen, sind zugleich
+Zeugnisse, die einiges über seine Menschlichkeit aussagen. Bredius
+und Hofstede de Groot haben bekanntlich in fast 500 Dokumenten mit
+erstaunlicher Sorgsamkeit aus den Archiven alles zusammengetragen, was
+zu dem Leben des Mannes auch nur in fernem und ungefährem Zusammenhang
+steht. Wir begleiten ihn da sozusagen von der Wiege bis zum Grabe,
+erfahren von seiner Taufe, von seiner Einschreibung als Student
+in Leyden, von der Heirat mit Saskia und ihrem Tod, von häßlichen
+Streitigkeiten mit Geertje Dirks, die, wie es scheint, der Hendrickje
+nicht weichen wollte, von einer (wirkungslosen) Verwarnung der
+Hendrickje durch den Kirchenrat wegen ihres illegitimen Zusammenlebens
+mit Rembrandt. Taufen und Beerdigungen der Kinder (auch das letzte,
+Titus, starb noch zu Rembrandts Lebzeiten), Wohnungen und Reisen, immer
+wieder Prozesse, Schulden, Zahlungsunfähigkeit, Pfändungsmaßnahmen und
+zuletzt, im Begräbnisbuch der Westerkerk, der Eintrag des Begräbnisses.
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+Rembrandts Sohn Titus]
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+Familienbild]
+
+Worin unterscheidet sich aber dieser gleichsam protokollarisch
+und notariell aufgenommene Lebenslauf von dem, was man über die
+Schicksale irgend eines Bürgers aussagen könnte, was kann man an
+seelischer Erregung diesen Berichten der Tatsächlichkeit entnehmen? Das
+Wichtigste fehlt fast ganz: Äußerungen des Mannes selbst (von einigen
+Geschäftsbriefen und gleichgültigen Bemerkungen abgesehen) und Belege,
+wie die Geschehnisse des Lebens auf ihn wirkten. In diese Lücke treten
+die Selbstbildnisse ein.
+
+Das Bild der Berliner Galerie von 1634, eines der frühesten also,
+zeigt den Rembrandt, der in der Vorstellung der Menge lebendig ist;
+in elegantem Mantel, mit Pelzkragen, schön gewelltem Haar, kühn
+schiefgerücktem Barett und jenem trutzig koketten Gesichtsausdruck,
+der jegliche romantische Vermutung über Künstlers Erdenwallen restlos
+befriedigt. Auch hier, wie in allen frühen Bildern, das Spiel mit
+derben Lichteffekten, die in beunruhigendem Kontrast zu dem unklaren
+graubraunen Ton, der die Farbigkeit bestimmt, stehen.
+
+Das Londoner Porträt von 1640 ist in gesteigertem Maß der Ausdruck
+jugendlich unreifen Selbstgefühls. Die Erscheinung ist durchaus auf
+den weltmännischen Kavalier abgestimmt: die gepflegte Haartracht,
+die prächtige Gewandung, der verbindliche Gesichtsausdruck. Unfrei
+und unbefriedigend die Form: mit dem Trieb zur Augenblicklichkeit --
+die Dreiviertelwendung des Körpers, der klammernde Blick, der jähe
+Lichteinfall sind die entscheidenden Mittel -- stimmt die peinlich
+genaue Ausführung und die Bindung in trübem bräunlichem Ton schlecht
+zusammen.
+
+Fünf Jahre später, nach Saskias Tod, ist das radierte Werk entstanden,
+auf dem sich Rembrandt zeichnend porträtiert hat. Hier ist alles
+gefestet und stark. Wie der Mann breit und ruhig am Fenster sitzt,
+fast frontal zum Beschauer, ganz ohne Pose, intensiv sachlich. Vor
+dem Fenster, noch auf der Fensterbrüstung, glüht praller weißer
+Sonnenschein. Der Zeichnende ist von ruhigem, gleichmäßigem
+Licht nur so weit erhellt, als nötig ist, um seine Gestalt aus dem
+tiefdunklen Hintergrund herauszumodellieren. Bei aller Erregtheit
+der Oberfläche, die in jedem Nerv vibriert, stärkste plastische
+Herausarbeitung der körperlichen Erscheinung und bestimmte harte
+Umrisse. Das Antlitz, wie ein Gleichnis bewährter starker Männlichkeit,
+ernst und ungebeugt.
+
+[Illustration: Rembrandt zeichnend 1645]
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Selbstbildnis 1634]
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Selbstbildnis 1640]
+
+Eine Episode aus dem Jahre 1655: Rembrandt in Landsknechttracht. Man
+weiß, daß der Künstler sich und Nahestehende in solche Vermummung zu
+stecken liebte; aber wenn ihn früher das Genrehafte, Pittoreske zu
+derlei Maskerade gereizt hatte, so erregt jetzt die malerische Pracht
+reicher Gewandung sein Auge und seine Hand.
+
+Drei Jahre später (1658) ist ein Bild entstanden, das sich heute
+im Besitz des Earl of Ilchester befindet: breit und feierlich,
+in mächtiger Frontalität sitzt der Mann da, wie die stärkste
+Versinnlichung gesammelter Kraft und königlicher Würde. Wir wissen,
+daß seit der Zeit, da Holbein die englischen Großen malte, in dem
+Jahrhundert also zwischen 1500 und 1600, die Art des europäischen
+Sehens von Grund aus sich gewandelt hat, daß, um die Gegensätze mit
+Wölfflins Begriffen kurz zu formulieren, die flimmernde bewegte
+Erscheinung an die Stelle des klaren, festumrissenen Seins getreten
+ist. Und doch steigt vor diesem Bildnis die Erinnerung an Holbein auf:
+die Erinnerung an die unbestechliche Sachlichkeit seines körperlichen
+und geistigen Auges, an die granitene Festigkeit seiner Form.
+
+Das Bild im Louvre von 1660 ergreift vor anderen als menschliches
+Dokument. Unvergeßlich der gramvolle, zerquälte Gesichtsausdruck, wo
+das Licht allen Schmerz in sanfte Verklärung wandelt.
+
+Der alte Rembrandt scheut grelle sinnliche und seelische Effekte. Das
+jäh anspringende Porträt der Sammlung Carstanjen von 1668 wirkt, von
+dieser Seite betrachtet, überraschend. Man denkt unwillkürlich an das
+andere, lachende Selbstbildnis, an die Dresdner Frühstücksszene mit
+Saskia. Solche Erinnerung macht die ungeheuere Spannweite dieses Lebens
+offenbar. Das Lachen des Dresdner Bildnisses klingt nach gezwungener,
+gepreßter Lustigkeit und es schwingt ein Unterton unechter,
+jungenhafter Prahlerei mit. Auch auf dem späteren Bild ist der Effekt
+kein befreiender Ausdruck fröhlichen Gefühls; aber bei aller Bitterkeit
+und krampfhafter Aufwühlung ist es bis in die letzten zuckenden
+Fasern von tiefstem Gefühl stärkster Lebendigkeit entzündet. Wenn das
+Licht dort allzu bewußt, allzu willkürlich den Bildrhythmus bestimmt,
+fließt es hier, eine glitzernde, flimmernde Welle, als notwendiger,
+gültiger Ausdruck innerer Lebendigkeit über Gesicht und Schulter. Nicht
+Einfachheit, die quellende Lichtfülle bezeugt es, sondern Reichtum,
+freilich gebändigter Reichtum ist das letzte Wort dieser Kunst.
+
+       *       *       *       *       *
+
+[Illustration:
+
+  Phot. Braun & Co., Dornach u. Paris
+
+Selbstbildnis 1660]
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+Selbstbildnis um 1668]
+
+Es gibt aus dem Todesjahr Rembrandts, aus dem Jahr 1669, noch ein
+Selbstbildnis, vielleicht das letzte Werk seiner Hand. Ein Brustbild,
+der Kopf in Dreiviertelwendung dem Beschauer zugewandt. Das Antlitz
+eines Greises, aber nicht so von Alter zerfressen, wie auf manchem
+früheren Bild. Weiße, seidige Locken hängen auf die Schultern herab.
+Die Wangen scheinen voll, schwammig aufgedunsen, fast ohne Furchen.
+Alles ist ruhig: die farbige Erscheinung, der Lichteinfall, der ruhige,
+gefaßte Gesichtsausdruck. Man meint die Stimme des Mannes zu hören:
+
+Ich bin alle Wege gegangen und habe von allem Leben erfahren. Alle
+Bitterkeit und alle Lust habe ich bis auf den Grund gekostet. Dich,
+Bruder Mensch, habe ich geliebt, und euch, ihr Frauen. Dich, köstliche,
+gesegnete Erde und auch dich, riesig gewölbter Himmel. Aber immer habe
+ich nach meinem Werk getrachtet. Die Welt ist weit und unser Tag währt
+kleine Zeit. Hand und Auge zerfällt in Staub, aber im Ewigen gebettet
+ruhet das Werk.
+
+
+
+
+Die +Landschaft+ des +jungen+ Rembrandt ist von jenem stürmischen
+Pathos aufgewühlt, das die früheren Bilder des Meisters erfüllt. Man
+mag darin vielleicht mit mehr Recht den in jeder jungen Generation
+lebendigen Willen sehen, mit aller akademischen Übung und Überlieferung
+zu brechen, als den Ausdruck eines inneren Nichtanderskönnens. Das
+besagt: dieses Pathos ist eher als Geste und als Stilwille, denn als
+Temperament und Gesinnung zu deuten.
+
+Das Ungewöhnliche, die Romantik, die phantastische Erregung der Natur
+ist Thema dieser Bilder; die Requisiten: steile Felswände, stürmische
+Wellen, Baumriesen, heroische Ruinen.
+
+Jede Linie zuckt in erregtem Überschwang, aber sehr selten hat
+eine die Überzeugungskraft, die tief erregter Leidenschaftlichkeit
+zukommt. Das Licht, das später die Funktion innerlicher Bindung und
+Organisation übt, erscheint hier nur als spielerischer, die Gegensätze
+willkürlich schärfender Effekt. Auch hat auf diesen früheren Bildern
+-- das bekannteste ist das sogenannte Petrus-Schifflein in der
+Sammlung Gardner zu Boston -- die Landschaft nur die Rolle des
+Hintergrundes, der Kulisse, vor der sich die menschliche oder heroische
+Handlung begibt.
+
+[Illustration: Die Landschaft mit den Kühen]
+
+[Illustration: Kanal mit Boot]
+
+[Illustration: Die Windmühle]
+
+[Illustration: Die Landschaft mit dem Turm 1648]
+
+[Illustration: Die Landschaft mit dem Milchmann]
+
+Gegen Ende der dreißiger Jahre verändert sich das Verhältnis Rembrandts
+zur Natur vollständig. Es ist psychologisch wohl begründet, allerdings
+historisch nicht ganz genau, -- das erste rein landschaftliche Bild ist
+von 1638 datiert, Saskia starb erst 1642 -- wenn man sagt, der Künstler
+habe sich nach dem Tode seiner Gattin oft und gerne auf dem Landgut des
+Freundes Six aufgehalten und dort habe sich ihm, der Welt und Menschen
+floh, die Wesenheit der Natur eigentlich erschlossen.
+
+Jedenfalls sind die nun folgenden eineinhalb Jahrzehnte, also etwa die
+Zeit von 1640 bis 1655, da die Landschaft als Thema in seinem Schaffen
+überwiegt, entscheidend für Form und Geistigkeit seines Werkes.
+
+Ein Blatt des Berliner Kupferstich-Kabinetts (H. d. G. 164) vom Ausgang
+der dreißiger Jahre zeigt eine Flachlandschaft mit Fluß und Kühen und
+im Hintergrunde Andeutungen von Bäumen. Eine zweite Zeichnung derselben
+Sammlung (H. d. G. 180), entstanden etwa um 1650, gibt ein ähnliches
+Motiv: eine Ebene mit Fluß und zwei Schiffen, ein Mann, der ein Kind
+an der Hand hält. Schon das Material -- Rembrandt benutzt bei seinen
+früheren Zeichnungen mit Vorliebe die Feder, später die Kreide --
+begründet zu einem Teil die Verschiedenheit des Ausdruckscharakters.
+Das frühe Blatt ist übersät von eckig gebrochenen, wirren Strichlein,
+beim spätern genügen wenige kräftige, fast nur wagrechte Linien. Obwohl
+die erste Zeichnung weit mehr ins einzelne hinein ausgeführt ist, gibt
+die andere eine um vieles stärkere Belebung des Ausdrucks, nicht nur in
+der Gesamtstimmung, sondern in jedem Detail; die Bäume, die Menschen,
+das Wasser, dort zittrig, unbestimmt und ungefähr, sind hier in ein
+paar Strichen mit höchstem Nachdruck ausgeprägt. Der Himmel dort ein
+nüchtern leerer Raum, breitet sich hier in unbegrenzter Weite.
+
+Um den Gegensätzen von einer anderen Seite her nahe zu kommen: die
+radierte Windmühle von 1641 (B 233) ist das Ergebnis intensivster
+Beobachtung der Natur. Mit beispielloser Eindringlichkeit und
+Unerbittlichkeit sind hier Sein und Wachstum des Wirklichen von
+Blick und Phantasie aufgesogen. Tür und Fenster, Dachschindeln und
+Holzplankenzaun, der Mühlenflügel, alle Erscheinung wird in ihrer
+letzten Schaubarkeit bloßgelegt. Daneben mag man eine etwa zehn Jahre
+später entstandene Radierung legen, die Landschaft mit dem Milchmann
+(B 213). Baum und Häuser, der Weg, das Gebüsch und der Mann sind als
+Sonderexistenz und als Naturphänomen ohne Belang. Auf das, was hinter
+den einzelnen Dingen steht, kommt es an, auf den unsichtbaren Strom,
+der jedes Sonderwesen durchströmt und bindet; auf jenen starken,
+unwirklich farbigen, rhythmischen Zusammenklang, der die Harmonie
+des Bildes ausmacht. Was hier geschaffen wurde, ist nicht irgendeine
+landschaftliche Ansicht, irgendein landschaftliches Motiv, vielmehr das
+Naturhafte, das Landschaftliche in seinem dauernden ruhenden Wesen.
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+Landschaft um 1638]
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Winterlandschaft]
+
+Die Reihe der Gemälde setzt etwa mit der Stadt am Berge bei Gewitter
+(Braunschweig um 1638) ein und schließt mit der Windmühle von 1650.
+Dort Natur, leidenschaftlich erregt und durchwühlt von stürmischer
+Bewegung: stürzende Gewitterwolken, unterbrochen von jäh erhellten
+weißen und blauen Wolkeninseln, ein Stück Erde, sturmdurchrast und
+von grellen Sonnenstrahlen durchzuckt. Und hier: die breit und ruhig
+gelagerte Mühle, mächtig, hoch und feierlich, aus schattiger, kaum
+bewegter Erde emporwachsend, selber unbewegt, aufgerichtet vor einem
+riesigen, gleichmäßig erhellten abendlichen Himmel. Dort wird in
+endgültiger Zusammenfassung jugendlicher Antriebe die Monumentalität in
+der erregten Geste und im gegenständlichen Pathos gesucht. Hier wirkt
+die Landschaft an sich groß, gefühlt und geformt als ein nach eigenen
+Gesetzen aufgebauter und lebendiger Organismus.
+
+       *       *       *       *       *
+
+Hiermit sind die beiden Pole festgelegt, zwischen denen Rembrandts
+landschaftliche Gestaltungen schwingen. Die organische Logik der
+Entwicklung wird offenbar: im Anfang jenes fanatische Ringen um das
+Sichtbare in der Natur mit dem Ziel, die Erscheinung, die Impression zu
+fassen.
+
+Aus der Einsicht, wie dauernd schwankend, dauernd verwandelt alle
+Erscheinung den Händen entflieht, wächst die Sehnsucht nach Erkenntnis
+und Formung des ewig Ruhenden, Unverrücktseienden im Ding. Das
+bedeutet, daß das Konstante an die Stelle des Variabeln, das Objekt
+an die Stelle des Subjekts tritt. Die wichtigsten Zeugnisse dieser
+Gesinnung sind die Radierungen der vierziger Jahre. Der Inhalt der
+Darstellung: eine strohgedeckte Hütte, ein Baum, ein Fluß, eine Ebene.
+Entscheidend ist die Eindringlichkeit, mit der auf diesen Blättern
+frei von Lyrismus und Empfindung das Wachstum und der Organismus der
+Natur erfaßt und bildhaft aufgebaut werden, so daß man wohl sagen kann:
+dieses ist Baum, Hütte, Fluß, Ebene, nicht, wie ich sie sehe, sondern
+wie sie sind. Ihre Lebendigkeit und ihre Struktur sind hier frei von
+menschlicher Spiegelung nach ihren eignen Gesetzen geformt.
+
+Aber die Erkenntnis, daß alle Gestaltung der Realität um ihrer
+selbst willen notwendig Stückwerk bleibt, daß Erscheinung sowohl
+wie Organismus nur von der Idee durchleuchtet zu restlosem Ausdruck
+kommen, blieb Rembrandt nicht verborgen. Die Arbeiten vom Ende der
+vierziger und Anfang der fünfziger Jahre, wo alles Gegenständliche,
+alles Wirkliche gelöscht und von einer Welle innerlicher Lebendigkeit
+durchströmt ist, geben davon Zeugnis. Schon in dem Winterbildchen der
+Kasseler Galerie von 1646 wird das spürbar. Da ist ein gefrorener
+Kanal, Schlittschuhläufer, eine Brücke, ein Bauernhaus, ein Schlitten.
+Aber diese Einzeldinge sind nicht gesondert da, alles ist eingehüllt
+in das starke winterliche Sein, das wie ein Odem alles erfüllt und
+durchdringt, die hartgefrorene Erdkrume, den stumpfen Himmel mit seinen
+grauweißen Wölkchen und die frostklare Atmosphäre.
+
+[Illustration:
+
+  Phot. Braun & Co., Dornach u. Paris
+
+Ein geschlachteter Ochse 1655]
+
+[Illustration:
+
+  Phot. Braun & Co., Dornach u. Paris
+
+Die Mühle 1650]
+
+In diesem Sinn sind auch die Radierungen von Ende der vierziger und
+Anfang der fünfziger Jahre zu deuten, wo über der verschwimmenden
+Einzelform riesige Horizonte in dunstigen Weiten sich spannen; und von
+den Gemälden mag hier vor allem auf die Landschaft mit der Ruine auf
+dem Berg (Kassel um 1650) und auf die schon genannte Windmühle von 1650
+hingewiesen werden.
+
+Es ist der Mann Rembrandt, der zwischen jenen beiden Polen steht. Und
+daß er gerade in den Jahren, die jenseits jugendlichen Überschwangs
+und noch nicht bedrängt von den innerlichen Gesichten des Alters zum
+ruhenden Sein der Dinge hinneigen, zur Natur, zur Realität kam, ist
+eines der wunderbarsten Phänomene dieses mit immanenter Logik wirkenden
+Schaffens.
+
+       *       *       *       *       *
+
+In der Landschaft Rembrandts erfüllt sich Formwille und Naturgefühl
+zweier Jahrhunderte.
+
+Wenn der reife Dürer mit Bewußtheit immer das ruhende Wesen der Ding
+gestaltet hat, so war doch auch ihm schon, zumal in frühen Jahren --
+die Handzeichnungen legen davon Zeugnis ab -- die Vorstellung von der
+Schönheit der Erscheinung lebendig. Und die Erscheinung als Formidee
+bleibt das Ziel. Schon mancher Zeitgenosse Dürers, Altdorfer etwa, Wolf
+Huber und Urs Graf, Hans Baldung mühen sich lebhaft um sie; und dann
+kann man Jahrzehnt um Jahrzehnt beobachten, wie der Boden allmählich
+sich lockert, wie die Dinge anheben zu schwingen und in Nerv und Gelenk
+zu zucken.
+
+In ähnlicher Weise wandelt sich das Naturgefühl. Die Landschaft des
+Genter Altares -- spitze langstielige Bäumchen und zierliches Buschwerk
+-- sehr geschmackvoll, höchst delikat empfunden und gemalt, ein fein
+geschliffener Edelstein, aber keine lebendige Natur. Auch Dürers
+landschaftliche Ansichten wirken, ganz im Gegensatz zu der quellenden
+Fülle und Frische seiner Zeichnungen, merkwürdig befangen, gestellt,
+zusammengesetzt. Wirkungsvoll angeordnete, stillebenhafte Staffagen und
+Hintergründe, nur keine Natur. Undenkbar bei ihm eine landschaftliche
+Ansicht als selbständiges Thema eines Gemäldes.
+
+Sehr viel freier und unbefangener stehen einige Vorgänger Dürers und
+manche seiner Zeitgenossen der Natur gegenüber. Man mag an das groß
+empfundene, gobelinartige Genferseebild des Konrad Witz denken, an den
+Tiefenbronner Altar des Lukas Moser, an manche frühe Niederländer,
+jedenfalls auch hier wieder an Altdorfer und seine Freunde und unter
+den späteren an Adam Elsheimer.
+
+Die italienische Landschaft der Zeit, die Landschaft des Leonardo, des
+Giorgione, des Palma, des Tizian ist intensiver und zugleich nervöser
+empfunden, sinnlicher geformt, aber das Landschaftliche ist hier meist
+nur der stimmungserzeugende, stimmungsbindende Grundton, aus dem sich
+die Melodie des menschlichen Antlitzes, des menschlichen Geschehens
+hebt.
+
+Die entscheidende Tat geschieht in den Niederlanden, Pieter Bruegel
+hat wohl die erste moderne Landschaft gemalt, das besagt, er hat zum
+erstenmal die Landschaft als Natur, die Natur als Wirklichkeit und
+zugleich als Organismus begriffen.
+
+Die Landschaft Rembrandts ist der riesige Abschluß, die starke
+Erfüllung des Werkes dieser Generationen. Hier wird die Sichtbarkeit
+als Erscheinung begriffen und in der Erscheinung das Bleibende geformt.
+Hier wird die Welt als Wirklichkeit und zugleich als ungegenständliches
+Phänomen gefühlt.
+
+Zunächst bei Rembrandt, der manches von ihm gelernt haben mag,
+steht der um ein halbes Menschenalter ältere Herkules Segers, der
+landschaftliche Prospekte gemalt und radiert hat, die von starker Kraft
+der Persönlichkeit und einem ungemein sensibeln Empfinden durchdrungen
+sind, ohne daß er sich zur letzten Freiheit und Unbefangenheit des
+Schaffens hätte durchringen können.
+
+       *       *       *       *       *
+
+Der alte Rembrandt hat keine Landschaft geschaffen. Wo, auf biblischen
+Darstellungen etwa, landschaftliche Hintergründe sich auftun, sind sie
+ohne individuelle, sinnliche oder stoffliche Bedeutung. Die Natur wird
+vermöge einer alle Sichtbarkeit durchströmenden, seelischen Kraft,
+die man als Religiosität bezeichnen mag, als wirkendes, aber nur im
+Zusammenklang des Ganzen wirkendes Atom in den ungeheuren Kreislauf der
+menschlichen und göttlichen Dinge eingefügt.
+
+
+
+
+Im Jahre 1652, im hohen Mittag des Lebens, hat Rembrandt den Faust,
+tiefstes Gleichnis immer unruhig fragender, suchender, irrender und
+strebender Menschlichkeit radiert. Der Mann hinter dem mit Pergamenten
+beladenen Schreibtisch ist aufgestanden und schaut ergriffen in den
+magischen Lichtkreis, aus dem ihm der Name Christi entgegenstrahlt.
+Fenster und Schreibtisch, Gewand und Gesicht werden im flammenden
+Lichtstrom weiß geglüht.
+
+Kurze Zeit danach wird die Radierung des „betenden David“ (B 41)
+entstanden sein. Nicht der grübelnde, bohrende Zweifel, sondern die
+in sich versunkene hingegebene Andacht. Durch das Bild geht der
+gedämpfte Klang stiller demütiger Zwiesprache mit Gott, hebt an mit dem
+vertrauensvoll erhobenen Haupt, den zuversichtlich gefalteten Händen,
+setzt sich fort in der Beugung des Rückens und klingt in dem sanft
+verströmenden Licht aus.
+
+[Illustration: David im Gebet]
+
+[Illustration: Der heilige Hieronymus im Gebet]
+
+[Illustration: Die heilige Familie (Frühzeit)]
+
+[Illustration:
+
+  Phot. Braun & Co., Dornach u. Paris
+
+Der barmherzige Samariter 1648]
+
+[Illustration:
+
+  Phot. Braun & Co., Dornach u. Paris
+
+Christus in Emaus]
+
+Solche Gestaltung war (auch für Rembrandt) keine Selbstverständlichkeit.
+Zwanzig Jahre früher hatte er den betenden Hieronymus (B 101) radiert,
+durchaus von der Gesinnung steilster profaner Aktion erfüllt, in
+der Verkrampfung des Körpers, der Verklammerung der Hände, dem
+Hervorbrechen der dunklen Gestalt aus jäher Erhellung.
+
+Schon diese drei Blätter offenbaren grundlegende Erkenntnis: daß
+vermittels +Licht+ und +Gebärde+ Rembrandt das religiöse Erlebnis
+versinnlicht. Von Licht und Gebärde reden, heißt zugleich Art und
+Richtung seiner Religiosität festlegen. Religiöses Schaffen bedeutete
+ihm Übertragung seelischer Ergriffenheit in Fläche, Helligkeit und
+Dunkelheit.
+
+Ein anderes Bild. Das Gleichnis vom barmherzigen Samariter. Man kennt
+die Worte des Evangeliums: Dann hob er ihn auf sein Lasttier, führte
+ihn in die Herberge und trug Sorge für ihn. Rembrandt hat das Thema oft
+in Gemälde, Radierung und Zeichnung gestaltet, zuerst im Jahre 1633
+(Wallace Museum London). Das Pferd, von dem ein Knecht den nackten
+Verwundeten hebt, hält vor der Herberge. Oben auf der Treppe verhandelt
+der Samariter mit dem dienernden Wirt über die Unterbringung. Alles
+Beiwerk wird mit größter Ausführlichkeit und Freude am Gegenständlichen
+geschildert: Die breite Freitreppe, das Portal des Hauses, der
+Ziehbrunnen im Hintergrund mit der wasserschöpfenden Magd, Sattel
+und Halfter des Pferdes, der mit dem Wirt redende Samariter, der
+breitspurige Pferdeknecht.
+
+Hier wird Gleichgültiges und Wichtiges im gleichmäßigen Tonfall
+epischer Erzählung ausgebreitet. Erst in der zweiten Fassung (Louvre
+1648) wird der eigentliche Sinn dieses Gleichnisses der Barmherzigkeit
+geformt. Das dämmrige Licht der einbrechenden Nacht dämpft alle
+Einzelheit, die Stadt mit den breiten schattigen Bergen, die ruhige
+Fläche des Hauses, Pferd und Pferdejungen. Sorglich und innerlich
+bewegt tragen zwei Knechte den zusammengesunkenen Mann zum Wirtshaus,
+und mitleidsvoll schaut der Samariter auf ihr Tun. In abendliches
+Dunkel ist das traurige Geschehen eingebettet, in Strömen der
+Hinneigung von Mensch zu Mensch das Mitleiden gebunden.
+
+Ein anderes mit Vorliebe gestaltetes Thema: Christus und die Jünger
+zu Emaus. „Und es geschah, da er mit ihnen zu Tisch saß, nahm er das
+Brot, segnete es, brach es und reichte es ihnen, da wurden ihre Augen
+aufgetan und sie erkannten ihn.“ Die erste Formulierung aus dem Jahre
+1629. Christus, herrisch zurückgelehnt, hebt sich als schwarzer
+Profilschattenriß vom grellen Lichtkreis ab. Der eine Jünger ist
+erschrocken in die Knie gesunken, der andere fährt entsetzt zur Seite
+und starrt mit weitaufgerissenen Augen auf das Zauberwerk.
+
+Vor hohem ruhigen Nischenhintergrund geschieht in der zweiten Fassung
+(Louvre 1648) der Vorgang. Die farbige Erscheinung ist zu ruhigem
+Gesamtton abgedämpft, aus dem einzelne Farbigkeiten nicht selbständig
+hervortreten. Christus, der das Brot bricht, sitzt den beiden Jüngern
+gelassen und segnend gegenüber. Eine Quelle sanften Lichtes strömt von
+ihm auf die zwei, die voll Ergriffenheit den Herrn erkennen.
+
+Überaus still und feierlich ist das Geschehen, wie es eine dritte
+Fassung (Louvre 1661) gibt. Wirkte das Zueinander der drei Figuren in
+dem Bild von 1648 irgendwie noch zufällig, nicht restlos notwendig,
+so scheint hier die Anordnung von einem fast klassischen Gefühl für
+Symmetrie bestimmt; freilich, daß die Zentralachse, Christus, sowohl
+im Gesamtraum wie im Verhältnis zu den beiden Jüngern nach links
+verschoben ist, erinnert daran, daß die Komposition nicht in Italien
+des 16. Jahrhunderts entworfen wurde. Der Herr, in weißem Gewand,
+schwach beleuchtet, das Haupt von unkörperlichem Lichtschimmer umgeben,
+sitzt unbeweglich, feierlicher Ruhe voll, zwischen den Jüngern, deren
+einer, von Ehrfurcht bewegt, sich vorneigt, indes der andere in
+ergriffenem Staunen langsam die Hand hebt. Die drei vor gleichmäßig
+matt erhellter, breit gelagerter Wand; durch das geöffnete Fenster
+strömt, wie ferne köstliche Musik, die Abenddämmerung in das Gemach.
+
+       *       *       *       *       *
+
+Den jungen Rembrandt, das scheint aus solchen Gegenüberstellungen
+sich zu ergeben, fesseln an der religiösen Geschichte das erzählende
+Beiwerk, das Stilleben, die dramatischen Möglichkeiten der Handlung;
+im Alter erst geht ihm der Sinn, die gleichnishafte Bedeutung des
+religiösen Geschehens auf, erst im Alter formt er die religiöse
+Stimmung.
+
+In dem frühen radierten Blättchen der heiligen Familie (B 62), wo Maria
+das Kind säugt, während Josef teilnahmslos bei Seite sitzend, sich
+in ein Buch vertieft, klingen gewiß weiche Töne an; wie die Mutter
+mit der einen Hand das Kind festhält, mit der anderen ihm die Brust
+reicht, während Josef und die Räumlichkeit ins Dunkel zurücktreten --
+aber ihre Begrenzung finden Mutterliebe und Familienglück doch in der
+Stube des holländischen Hauses, in der Enge bürgerlich-hausbackener
+Triebe.
+
+Erst die Radierung von 1654 (B 63) gibt Gefühl in zeitloser
+Unbegrenztheit. Die gleichen Personen wie früher, Maria, das Kind,
+Josef, die gleichen Requisiten, der Raum mit seinen Wänden, allerlei
+Hausrat und Getier. Und doch ist mehr da: Ströme sanfter Glückseligkeit
+fließen von dem Antlitz des durch das Fenster schauenden Josef zu Maria
+hin, die von der Süße und Dunkelheit der Mutterschaft wie überwältigt
+zu dem Kind sich neigt und es an sich drückt. Als letzte Bekräftigung
+des religiösen, über menschliches Begreifen herausgehobenen Geschehens
+wird die Verklärung in sinnlicher Sichtbarkeit wirksam: Maria vor der
+Helligkeit des Fensters, den Strahlenkranz ums Haupt.
+
+       *       *       *       *       *
+
+Solche Querschnitte nehmen Ergebnisse voraus. Man kann einwenden,
+sie seien willkürlich der thematischen Idee zuliebe gelegt. Es wird
+notwendig, Werden und Gewordenheit auf breiter Grundlage aufzubauen.
+
+Da sind die +frühen Zeichnungen+ aus den ersten fünfzehn Jahren des
+Schaffens, beiläufig bis zum Jahre 1642 hin.
+
+Die Kreuzschleppung (HdG 71). Christus unter der Riesenachse des
+Kreuzes zusammenbrechend. Um ihn in wirrem Knäuel neun Menschen;
+vorn links, breit laviert, die überaus wirksame Rückenansicht
+eines Mannes. Die Federstriche dünn und schnörkelhaft hingesetzt. Den
+Menschen und dem Raum fehlt Klarheit und Körperlichkeit. Alles ist
+überaus handgreiflich gegeben und bleibt doch irgendwie im Ungefähren.
+
+[Illustration: Die heilige Familie im Zimmer]
+
+[Illustration: Die Kreuztragung]
+
+[Illustration: Christus treibt die Händler aus dem Tempel]
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Die heilige Familie 1646]
+
+Ein anderes Blatt dieser Jahre: Jakob mit Josefs blutigem Rock (HdG
+29). Jakob ist von dem gräßlichen Schauspiel auf das schwerste
+getroffen in seinen Stuhl zurückgefallen. Seine ganze Körperlichkeit,
+Augen und Stirn, Hand und Beine, krampft sich in jammerndem Schmerz
+zusammen, seinem Mund entringt sich ein gellender Schrei. In kleinen
+heftigen Strichen wird die hochdramatische Szene hingesetzt.
+
+Ähnliche Erregung brennt in einem andern Blatt: Der Engel entschwindet
+Manoah und seinem Weib (HdG 31): in der jähen Flugbewegung des Engels,
+der sich von der Erde abstößt, in der zwischen erschrockener und
+ehrfürchtiger Verehrung schwankenden Gebärde der Zurückbleibenden.
+Nichts vom Geheimnis der Verkündigung; es schreit die stoßende,
+schlagende Geste.
+
++Radierungen+ des gleichen Zeitraums. Christus vertreibt die Händler
+aus dem Tempel vom Jahre 1635 (B 69). Ein wirres Durcheinander der
+Stimmen und Bewegungen, dabei eine kindliche Freude an beschaulicher
+Ausmalung jeder Einzelheit. Ein wimmelndes Vielerlei der Erzählung,
+kein bestimmender Grundton, kein durchgehender Rhythmus.
+
+Die Darstellung im Tempel von 1639 (B 49). In langer Aneinanderreihung
+der Zug der Zuschauenden, ohne ersichtliche Teilnahme die meisten,
+ohne Verbindung mit dem Hauptvorgang, der sich vorn rechts ohne
+sonderliche Akzentuierung in matter Gleichgiltigkeit abspielt.
+Lichtwellen fließen im Hintergrund auf und nieder, ein zufälliger und
+äußerlicher Hinweis auf den sakralen Charakter des Vorgangs.
+
+Die kleine Auferweckung des Lazarus vom Jahre 1642. Die Wunderlichkeit
+des Geschehens wird betont. Christus, der große Zauberer und Magier,
+streckt beschwörend die Hand aus -- den Toten gleichsam beschwörend.
+Lazarus kann solcher Beschwörung nicht widerstehen und erhebt sich
+langsam und widerstrebend aus dem Grab. Die Phantastik des Vorgangs
+wird unterstrichen durch die mächtige Felsenkulisse, vor der er
+sich begibt, und findet einen deutlichen Widerhall in den teils
+erschrockenen, teils ehrfürchtig staunenden Gesichtern der Zuschauer.
+
+Aus dem ersten Jahre des Rembrandtschen Schaffens stammt das +Gemälde+
+„Paulus im Gefängnis“ (Stuttgart). Vor hellbeleuchteter Wand, auf
+schönfaltig hingebreiteter Decke, sitzt der Apostel; um ihn, in
+liebevoller Ausführlichkeit, ein Stilleben: Bücher, Blätter, eine
+Reisetasche, ein Schwert. Paulus sitzt mit gutgespielter, gewichtiger
+(und dabei so konventioneller) Miene da und stützt sinnend das Kinn auf
+die Rechte. Die grelle und kalte Beleuchtung wirkt als aufdringlicher
+Hinweis, keinesfalls vergeistigend.
+
+Der Zinsgroschen von 1629 (London). Der Szene soll die mächtige,
+nicht ohne Sinn für monumentale Raumwirkung aufgebaute Architektur
+Bedeutsamkeit leihen. Es läßt sich nicht leugnen, daß hierdurch ein
+Hintergrund von gewisser Großartigkeit geschaffen wurde, aber nicht
+ersichtlich ist, wodurch sich der Vorgang von irgendwelchem profanen
+Geschehen unterscheidet.
+
+In einem anderen Dialogstück, dem „Ungläubigen Thomas“ der Eremitage
+von 1634 wiegt die Geste weit schwerer als das seelische Gefühl. Man
+sieht um den in seiner Strahlenglorie schimmernden Christus eine
+Anzahl Menschen angeordnet, und die Skala ihrer Gefühle wird in
+geschickter Steigerung vorgeführt. Von dem rechts vorn Schlafenden über
+Verwunderte, Erstaunende hin bis zu dem in höchster Erschrockenheit
+zurückweichenden Apostel. Die zu sehr überlegte Mannigfaltigkeit der
+Gestikulation, der allzu derbe handgreifliche Überredungsversuch
+Christi verblüfft; er überzeugt nicht, er ergreift nicht.
+
+Das Opfer Abrahams der Eremitage von 1635 bleibt noch stärker
+in rein theatralischem Pathos befangen. Unmöglich hier an Weihe
+des Opfers zu denken. Die Art, wie Abraham mit klammerndem Griff
+das Gesicht des Sohnes zudeckt und mit der anderen Hand zum Stoß
+ausholt, erinnert peinlich an die Tätigkeit des Fleischers; die
+gleiche rohe Handgreiflichkeit bestimmt die Bewegung des Engels, der
+mit so schmerzhafter Kraft Abrahams Handgelenk umfaßt, daß dieser
+unwillkürlich das Messer fallen läßt.
+
+Vier Jahre später, 1639, ist das Münchener Bild „Die Auferstehung
+Christi“ entstanden. Als neues Phänomen hier die verklärende
+Wolke dunstig stäubenden Lichtes, welcher der Engel entschwebt.
+Handwerkliche geläufige Mache, das allzu geschickt angeordnete
+Durcheinander des Soldatenhaufens vorn links, das mit stillebenhaftem
+Eifer gemalte Spiel der Lichtreflexe auf den Rüstungen. Allzu
+rationalistisch der Gedanke, daß Christus des Engels, der den schweren
+Stein hochwälzt, zur Auferstehung bedarf. Auch die Haltung des im Grabe
+liegenden langsam Erwachenden bestätigt den Eindruck, als bedürfe er
+eines Wundertäters zur Erweckung. Aus dem Zwiespalt von Verklärung und
+Rationalismus spricht aber das Werden neuer Dinge, deren Zeit nur noch
+nicht reif ist.
+
+       *       *       *       *       *
+
+Das religiöse Werk der folgenden anderthalb Jahrzehnte, bis etwa
+zum Jahre 1654, wurzelt im Erdhaften. Es ist in dem vorhergehenden
+Abschnitt dieses Buches angedeutet worden, wie sehr die Bemühung um die
+Landschaft die Arbeit dieser Jahre bestimmt. Aber damit ist noch zu
+wenig gesagt. Die Landschaft weitet sich in dieser Zeit zum Gleichnis
+des erdverbundenen Lebens. Zur Landschaft tritt die Pflanze („die
+Muschel“), das Tier (im Pfauenstilleben, in den geschlachteten Ochsen).
+Neben der Natur wird die andere Wurzel des Lebens, die Familie, in
+den Kreis der Darstellung eingefügt. Wenn diese Schöpfungen über das
+Erdhafte hinaus den Charakter des Religiösen tragen, so ist es dadurch,
+daß hier, was in den Dingen des Lebens, der Natur wesenhaft, dauernd
+gesetzlich, gleichnishaft ruht, in sinnlicher Form verwirklicht wurde.
+
+[Illustration: Die Flucht nach Ägypten 1654]
+
+[Illustration: Die Kreuzabnahme bei Fackelschein]
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Moses zerschmettert die Gesetzestafeln]
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Jakob ringt mit dem Engel]
+
+Die innigste der verschiedenen in den vierziger Jahren entstandenen
+Darstellungen der heiligen Familie ist die sogenannte Holzhackerfamilie
+in Cassel. Der gemalte Rahmen, der abschließende Vorhang erweckt von
+vornherein eine trauliche, behagliche Stimmung, die in der ganzen
+Einrichtung des Innenraums ihren Widerhall findet: In dem lustigen
+Feuerchen mit der Katze, in dem weiten dämmrigen Fenster -- draußen ist
+gewiß ein kalter Winterabend --, in dem im Dunkel fast verschwimmenden,
+mit Holzhacken beschäftigten Josef, in dem malerischen Gewinkel der
+Hütte, die in spitzbogiges Gemäuer eingebaut ist. Und alles steigert
+sich zu sanfter Musik in der von weichem Licht überfluteten Maria, die
+zärtlich und innig das Kind herzt.
+
+Sachlichkeit der Erzählung, der Linie ist entscheidendes Kennzeichen
+eines Blattes, wie der Abschied des verlorenen Sohnes (Berlin HdG 60).
+Klar und bestimmt, fast hart, schnörkellos und doch ohne allzu sehr
+vereinfachende Kürzung ist jeder Strich hingesetzt, mit Bestimmtheit
+Volumen und Umriß der Menschen und Dinge gekennzeichnet, ohne redselige
+Weitläufigkeit, aber doch auch nicht zurückgeführt auf das gültige,
+dauernde Gleichnis, wie es die heilige Geschichte erzählt. Solche reife
+Sachlichkeit ist Frucht rastloser Bemühung um die Natur. Und doch ist
+mehr als das in dem Blatt: In der erregten Hast, mit der der Sohn das
+Roß besteigt, in der erschrockenen Handbewegung und Kopfwendung des
+Vaters wird Rhythmus lebendig.
+
+Das in diesen Jahren so häufige Thema der heiligen Familie wird
+variiert dadurch, daß die Szene in die Landschaft verlegt wird: Die
+Flucht nach Ägypten. So die Szene, wo Josef den Esel mit der Mutter
+und dem Kinde führend, den Weg durch Walddickicht und einen Bach sucht
+(B 55 vom Jahre 1654). Jede feste Form wird von den durch die Blätter
+rinnenden Lichtern aufgelöst. Im Umriß bleibt fast nur das Gesicht der
+drei Menschen und des Tieres kenntlich, in den unergründlichen Überfluß
+des Waldes gebettet.
+
+       *       *       *       *       *
+
+Die +Alterswerke+ Rembrandts möchte man als religiös in dem
+eigentlichen und wesenhaften Sinn des Wortes bezeichnen, sodaß alles
+vorangehende als stoffliche Vorbereitung, als handwerkliche Vorstufe
+erscheint.
+
+Was bleibt als entscheidende Erinnerung an ein Bild wie die Landschaft
+mit Tobias und dem Engel (aus der Mitte der fünfziger Jahre): Die
+Gebärde des zurückschreckenden Tobias, der Engel im weißen Gewand
+und den weit gebreiteten Flügeln hinter ihm, beruhigend, ermutigend.
+Die verschwimmende Umrißlinie des abendlichen Hügels. Der Dunst der
+Dämmerung, worin die Geschehnisse lagern.
+
+Das Licht, gellende Trompetenstöße, feierliche Trauermusik, auf der
+radierten Kreuzabnahme bei Fackelschein (B 83). Aus weiter Ferne
+und vereinzelt die ersten zitternden Stöße, ein Gesicht, ein Arm,
+ein Haus, eine Hand. Und weiter vorn, gesammelt, die langgezogenen
+erzenen Tuben: Das weißgebreitete Linnen, der steife Leichnam des
+Herrn, gequälte erloschene Gesichtszüge, den vier Männer vom Kreuze
+herabgleiten lassen. Licht wird Gebärde und alle Gebärde ist Licht
+geworden. Gletscherhaft erstarrt in der ungeheuren Kälte des Schmerzes
+liegt der grelle weiße Strom.
+
+Das Gemälde „Jakob ringt mit dem Engel“ (Berlin), das um das Jahr 1660
+entstanden ist, gibt seelisches Geschehen in stärkster Zusammenfassung.
+Nur zwei Massen sind hier wirksam, eine helle Masse und eine dunkle
+Masse, vor unbestimmt dämmrigem Grund; der lichte, sanft abwehrende
+Engel mit weitgespannten Flügeln, der dunkle, von seinem Drängen nicht
+ablassende Mann; und nichts anderes geht in dem Bild vor sich als ein
+unaufhörliches Strömen stärkster geballter Kraft, nicht ermattender
+Überredung von der einen Masse zur andern: ich lasse dich nicht, du
+segnest mich denn.
+
+Ist nicht in jene Ölbergzeichnung (Berlin HdG 66), da Christus die
+Jünger schlafend findet, unendliches Gefühl der Trauer, der Einsamkeit,
+gesenkt? Wenige zackige Kurven genügen zur Belebung der waldigen
+Örtlichkeit. Und davor die eilend suchende Gestalt des Herrn, die
+gramvoll gebeugte Linie des Rückens, das vorgeneigte Antlitz, die
+angstvoll vorgestreckten Hände. Ein Mensch, gesättigt von Bitterkeit
+und Verzweiflung: Konntet ihr nicht eine Stunde mit mir wachen und
+beten?
+
+Knappste gedrängteste Fassung der Linie gibt die Zeichnung vom
+wunderbaren Fischfang (Paris, Sammlung Gay HdG 778). Auf dem Boot
+vor gespanntem Segel aufrechtstehend die Majestät des Herrn, rechts,
+unter der Last des Fanges gebeugt, die Jünger, zuvorderst Petrus, von
+der Schwere der Schuld des Zweifels zur Erde gedrückt: Ich bin ein
+sündiger Mensch. Wenige andeutende Linien umschreiben die ganze Tiefe
+der Geschehnisse.
+
+Gereifte Erfüllung allen Strebens bringen die letzten Werke. So der
+„David vor Saul“ (im Haag). Die Farbigkeit ist zu einem rauschenden,
+gesättigten Einzelklang abgedämpft; der Aufbau, die Einzelform zu ihrem
+wesenhaften Ausdruck vereinfacht; das Gefühl in nicht zu steigernder
+Stärke und Eindeutigkeit gesammelt. Alles was geschieht, ist
+Vorbereitung für den großen Strom der Empfindung, der Ergriffenheit,
+der aus beiden Gesichtern bricht. Wer fragt noch nach Handlung,
+Historie? Von tiefster Rührung der Seele ist die Fläche durchackert.
+
+       *       *       *       *       *
+
+Es ist ein riesiger Bogen, der von der Erde zur dunklen Unfaßbarkeit
+der Seele hin sich spannt. Es wird kaum ein Jahr im Schaffen Rembrandts
+geben, in dem nicht irgendein religiöses Thema gestaltet wurde.
+Die entscheidende Erkenntnis ist: einzusehen, zu erleben, wie die
+Einstellung in vierzig Jahren eine artverschiedene geworden ist.
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+Christus an der Martersäule]
+
+[Illustration: Christus am Ölberg]
+
+Aus dem Anfang der dreißiger Jahre das Gemälde: David vor Saul die
+Harfe spielend (in Frankfurt), das gleiche Thema also wie das eben
+erwähnte Spätwerk im Haag. Auch der szenische Aufbau, das Beieinander
+der zwei Menschen, -- der thronende König, der unscheinbare David
+am Rand des Bildes, -- scheint unverändert. Und doch erschüttert die
+Polarität der Anschauung. Das Hochformat gibt hier von vornherein
+die Entscheidung für die Aktion. Alles ist aufs Augenblickliche,
+Handlungsmäßige, auf die effektvolle Geste berechnet. Der starre
+krampfhafte Blick des Königs, die jähe Wendung seines Kopfes, der
+krampfhafte Griff, mit dem er den Speer umklammert, die derbe Betonung
+der Gegensätze -- der Knabe David versinkt fast im Dunkel, Saul steht
+vom weißen Rampenlicht bestrahlt da -- dies alles erinnert immer wieder
+an Geste und Pose der theatralischen Darbietung.
+
+Die Himmelfahrt der Münchener Pinakothek von 1636. Der Herr, in eine
+stäubende Lichtgloriole gehüllt, entschwebt den staunenden Jüngern.
+Der dankbare Kontrast von dunkler Tiefe und lichter Höhe. Der Aufbau
+nach fast italienischem Schönheitskanon entwickelt -- man mag etwa an
+Raffaels Verklärung denken. Man wird einwenden, das prunkvolle Pathos
+wohne von vornherein dem Stoff inne; andererseits ist sicher: in
+späterer Zeit hätte Rembrandt ein solches Thema überhaupt nicht gewählt.
+
+Zehn Jahre danach, ebenfalls in der Pinakothek, die Anbetung der
+Hirten. Das Licht ist nun nicht mehr dekoratives, effektvolles
+Zierstück, sondern bildbauendes Element und zugleich vermöge seines
+unwirklichen Eigenlebens vergeistigende Kraft, die Gesichter, den Raum
+irgendwie ins Unfaßbare, Traumhafte verklärend.
+
+Die entscheidende Wendung zum Religiösen ist mit der Radierung der
+Predigt Christi vom Jahre 1652 (B 67) getan. Der ganze Kreis teils
+gleichgültiger, teils andächtiger Zuhörer empfängt sein Leben von der
+im Mittelpunkt stehenden Gestalt Christi, die (ganz im Gegensatz zu
+dem „schönen“ Christus des Hundertguldenblattes) aller äußerlichen
+Anmut entbehrt. Von dem tröstend geneigten Haupt, von den rührend
+eindringlich erhobenen Armen gehen Ströme andächtigen Gefühls,
+mitleidender Erbarmung aus. Wie die Geschlossenheit des Aufbaues hier
+notwendig und organisch wirkt, so selbstverständlich entfällt die
+Akzentuierung durch willkürliche Kunstmittel.
+
+Fünf Jahre später die Anbetung der drei Könige im Buckingham
+Palace. Man weiß, daß gerade dieses Thema häufig den Vorwand zu
+Ausstattungsstücken der klassischen Malerei gab und mag sich
+vorstellen, welchen Prunk der junge Rembrandt hier aufgewandt hätte.
+Die Anordnung ist die herkömmliche: die Mutter mit dem Kind vor der
+verfallenen Hütte, die drei Könige, ein endloser Troß von Dienern.
+Und dabei ist alles von Grund aus anders. Alles gleichgültige Beiwerk
+-- die Diener, der Hintergrund -- wie gelöscht, nur durch Schleier
+sichtbar. Aus der Dämmerung treten die Frau mit dem Kind und die drei
+Könige. Der erste, noch abseits stehend, wie ergriffen und erschrocken
+das Geheimnis abwehrend; der zweite schon näher, zu Opferung und
+Anbetung bereit, ergreift die Krone; und der dritte ist überwältigt vor
+der Mutter, die sich gütig neigt und ihm das Kind reicht, zur Erde
+gesunken. Andacht, versinnlicht in der Gebärde des Gesichtes und der
+Hände.
+
+Am Ende steht das Gemälde „Die Heimkehr des verlorenen Sohnes“
+(Petersburg). Wie aus grauer, unfaßbarer Ferne tauchen die Gestalten
+des Bildes und wachsen in riesige Größe. Dämmrig, unbestimmt drei
+weiter zurückstehende Menschen: die Mutter vielleicht und der ältere
+Bruder, von dem die Schrift erzählt, und irgend ein Fremder. Ganz vorn
+links der verlorene Sohn und der Vater. Jener in grobem, zerrissenem
+Gewand, einen armseligen Strick um die Hüfte, demütig flehend
+niedergesunken, das halbabgewandte Gesicht von Reue und Zerknirschung
+überflutet, mit den Händen am Vater sich anklammernd: Vater, ich habe
+gesündigt ... Und der Vater, gütig, verzeihend, neigt sich zum Sohne,
+legt die Hände auf seine Schulter und zieht ihn zu sich heran. Tiefste
+Ergriffenheit wird in dieser Gebärde reine einfache ungebrochene Form.
+
+       *       *       *       *       *
+
+Es ist an der Zeit, das Ganze als Ganzes zu sehen. Den Keimkern
+herauszuschälen, der diese Welt gezeugt hat. Die Gesinnung eindeutig
+festzulegen, die in den religiösen Werken dieses Mannes lebt.
+Zusammenhänge zu überschauen: welchen Sinn die Religiosität Rembrandts
+im vielheitlichen -- unendlich vielheitlich trotz verhältnismäßig
+einheitlicher Grundlage des Dogmas -- Mosaik der abendländischen
+Religiosität erfüllt.
+
+Die Dokumente der Jugend, ein Gemälde wie Abrahams Opfer (Eremitage),
+die Radierung der Tempelaustreibung sind bar allen religiösen
+Antriebes. Thema ist die erregende Dramatik des Geschehens. Dort der
+wie ein Blitz niederfahrende Engel, der die Hand des zurückschreckenden
+Abraham mit rohem Griff umklammert, daß ihr das Messer entfällt. Hier
+Christus mit geschwungener Geißel inmitten der auseinanderstiebenden
+Menge. Hier wie dort: ein erregender Aktus von durchaus profaner
+Tatsächlichkeit. Man kennt das Stoffliche von der Lektüre der Bibel
+her, dies ist die einzige religiöse Assoziation. Welche seelischen
+Möglichkeiten auch in einer solchen Szene, die von vornherein gänzlich
+auf theatralische Wirkung eingestellt zu sein scheint, liegen, macht
+Dürers Blatt aus der kleinen Passion deutlich, das übrigens von
+Rembrandt für seine Radierung benutzt wurde. Statt der Menge der
+Händler wenige ins Dunkel zurücktretende Gestalten; in der Mitte des
+Raumes Christus, licht vor düsterem Hintergrund, ernst, feierlich
+mit wuchtigen Strichen gegeben. Die Formsprache der Zeit, aber von
+persönlich ergriffener Andacht erfüllt, während der junge Rembrandt
+durchaus in der Tradition seines Lehrers Lastman lebt, den Stoff in der
+zeitgemäßen barocken Formulierung prägt und als persönliche Leistung
+nur das Pathos stürmischer Aktion gibt.
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+David vor Saul]
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+David, vor Saul die Harfe spielend]
+
+[Illustration:
+
+  Phot. F. Bruckmann A.-G., München
+
+Die Anbetung der Hirten]
+
+[Illustration: Die Predigt Christi]
+
+Auch bei einem Bild, wie die Auferstehung von 1639 (Pinakothek) beruht
+die Wirkung durchaus auf der im Grund doch virtuosen Gegenüberstellung
+der flimmernden Engelwolke und der Finsternis des Vordergrundes
+mit den taumelnden Wächtern; ein peinlicher Anblick, wie Christus,
+eine wächserne Puppe, mühsam im Sarkophag, dessen Deckel der
+Engel hochwälzte, sich erhebt. Mit welch schlagender unerbittlicher
+Eindringlichkeit wurde das Wunder solchen Geschehens bei Grünewald
+malerische Tat: unten die niederstürzenden Wächter, in der Höhe
+schwebend Christus, breit und mächtig in leuchtender Herrlichkeit, im
+triumphierend flatternden Gewand, mit feierlich erhobenen Händen, die
+die Wundmale zeigen. Ist das Licht für Rembrandt (in diesen Jahren) ein
+zu vollkommener Virtuosität ausgebildetes Kunstmittel, so bei Grünewald
+notwendiger sinnlicher Ausdruck metaphysischer Verklärung.
+
+In der Mitte des Lebens geschieht der entscheidende Durchstoß zur
+Religiosität: In den Bildern der heiligen Familie, deren schönstes
+die Casseler Holzhackerfamilie ist. Es heißt nur den Anteil der
+holländischen Zeitstimmung erörtern, wenn man bemerkt, daß die Szene
+jetzt in das gemütliche Stubeninnere verlegt wird. Religiös ist hier,
+wie menschliches Gefühl in seiner innerlichsten Regung bloßgelegt wird:
+wie die Mutter, selig das Haupt geneigt, das Kind mit beiden Händen
+an sich drückt; wie alles übrige in Dämmerung versinkt, um das sanfte
+Wunder nicht zu stören. Aus dem Geheimnis der Mütterlichkeit fließt das
+Erlebnis der Religiosität. Dies ist das Neue, bisher nicht Dagewesene.
+Immer ist in den mittelalterlichen Marien ein Rest von Scheu, von
+Feierlichkeit, von Unnahbarkeit. Nur Leonardos traumhaft sich neigenden
+Madonnen und der Maria im Rosenhag des Isenheimer Altars scheint eine
+Ahnung von solch strömender Hingabe innezuwohnen.
+
+In den letzten fünfzehn Jahren seines Lebens hat Rembrandt keine
+profane Historie mehr gemalt oder radiert. Mit zwei Ausnahmen: das
+Civilisbild, das nicht aus eigener Initiative, sondern auf Grund
+eines Auftrages der Stadt Amsterdam entstanden ist. Und selbst in
+dieser weltlichen Darstellung tritt die politische Aktion hinter der
+feierlichen liturgischen Stimmung gänzlich zurück. Und ähnliches gilt
+von dem andern Gemälde „Jupiter und Merkur bei Philemon und Baucis
+zu Gast“. Das Verhältnis hat sich umgekehrt: konnte man bisweilen
+stofflich religiöse Darstellungen der Jugend für profane Geschichten
+halten (den drohenden Simson beispielsweise), so wird jetzt der
+weltliche Stoff von religiöser Stimmung erfüllt.
+
+Weitergehend die Frage: welche religiösen Stoffe haben Rembrandt in
+diesen fünfzehn Jahren angezogen? Wenn man die Reihe dieser reichlich
+zwei Dutzend Stücke vorüberziehen läßt, sieht man, daß es sich fast
+ausschließlich um Themen handelt, die zu getragener feierlicher
+Stimmung neigen. Alles Handlungsmäßige, alle Aktion wird gleichgiltig.
+Keine Auferstehung, keine Himmelfahrt, keine Wunderwirkung. Wo sie, die
+Aktion, ausnahmsweise -- bei dem die Tafeln zerschmetternden Moses,
+beim Jakobskampf -- Bildinhalt ist, erscheint ihre Äußerung unwichtig
+gegenüber dem gewaltigen Sprung innerer seelischer Kraft, die das Bild
+baut.
+
+Was bleibt, ist das tiefst Menschliche, im läuternden Feuerofen des
+Leidens und der Ergebung religiös und Gleichnis geworden. Es ist nicht
+ohne Wichtigkeit, den spezifisch religiösen Antrieb zu betonen; man
+erlebt es (bei den Zeichnungen etwa) vor jedem einzelnen Blatt von
+neuem: wieviel an Innigkeit, Gelöstheit, Blutwärme hat jede (stofflich)
+religiöse Handzeichnung den Civilisentwürfen etwa gegenüber voraus, die
+doch an sich zu den ausdrucksvollsten zeichnerischen Dokumenten dieser
+Jahre gehören.
+
+       *       *       *       *       *
+
+Baldinucci ist es, glaube ich, der berichtet, Rembrandt habe der
+Sekte der Menoniten zugehört. Anderen erscheint er im kalvinischen
+Holland tief verwurzelt und wieder andere wollen in seinen Spätwerken
+Strömungen einer katholischen Frömmigkeit sehen. Dies ist alles
+irgendwie richtig und erschöpft doch das Wesentliche nicht. Wir
+wissen aus gelegentlichen Überlieferungen, daß er in gleicher Weise
+freundschaftlich mit Juden, Katholiken und Kalvinern verkehrte. Dieses
+Werk, gläubig wurzelnd im biblischen Wort, ist gleich weit entfernt von
+modernem pantheistischen Gottgefühl wie von mittelalterlicher fußfällig
+demütiger Gottergebung. Anbetung ist Andacht geworden. Ist nicht das
+Gefühl der Gottnähe, der Brüderlichkeit mit Gott, und das schweigende
+starke Verstummen vor seinem unergründlichen Geheimnis der eigentliche
+Antrieb dieser Gebärde?
+
+Denn nunmehr ist die feierliche, aus sanft verklärter Dunkelheit
+tauchende Gebärde alles geworden. In ihr festigt und klärt sich zu
+gleichnishafter Form: mitleidendes Gefühl, geballter Wille und die
+geläuterte gelassene Erkenntnis des gotterschaffenen, im Unendlichen,
+Unbegreiflichen schwingenden Alls.
+
+
+
+
+Soll schließlich ein Wort den Sinn dieses Schaffens zusammenfassen,
+wie er uns Heutigen sich darstellt, wie er hier in andeutendem Umriß
+gezeigt wurde -- schließlich vermag Kunstbetrachtung nichts anderes als
+Einstellung zu vermitteln; nicht Vollständigkeit ist das Ziel, sondern
+Vorbereitung -- so ist es das Wort Religiosität.
+
+Unnötig, zu versichern, daß es hier nicht als banale, modische Laune,
+nicht als unklar schwärmende Stimmung begriffen werden darf, daß es,
+da ja nur die Dialekte andere sind, aber über die Jahrhunderte hin der
+Urlaut des Gefühls unverändert schwingt, für Rembrandt Wesensgleiches
+bedeutet, wie für den romanischen Miniaturenmaler, die Mystiker,
+Grünewald: Inniges Leben in Gott. Lobpreis der gottgeschaffenen
+Kreatur, sei sie Acker, Mensch oder Tier.
+
+Vielheitlichkeit äußerer Erscheinung wird in diesem Zeichen geläutert
+und, ungeheuerlich gesteigert, in ihren unvergänglich gleichnishaften
+Sinn gefaßt. Am Ende dieses Lebens wiegt es gleichviel: ob Landschaft,
+ob Bildnis, ob religiöses Geschehen Thema ist.
+
+Worte und Zeichen versinken. Die Liebe, in Gott brennender Dornbusch,
+flammt; verwirklicht in Fläche und Form durch die Verklärung aller
+Erscheinung.
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Die Anbetung der Könige]
+
+[Illustration:
+
+  Phot. F. Hanfstaengl, München
+
+Die Rückkehr des verlorenen Sohnes]
+
+
+
+
+_AUGUST L. MAYER_
+
+Matthias Grünewald
+
+Mit 68 meist ganzseitigen Abbildungen, zum Teil nach neuen Gesamt- und
+Detailaufnahmen
+
+Geheftet 11 Mark
+
+Pappband 13 Mark. Halbleinenband 15 Mark
+
+„Das Buch ist in doppelter Hinsicht eine bemerkenswerte Erscheinung: In
+klarer gedrängter Form bietet es die wissenschaftlichen Ergebnisse der
+weitläufigen Werke von H. A. Schmid und Hagen und ergänzt sie glücklich
+durch eigene Schlüsse und Beobachtungen. Ferner aber gibt es mit
+seinen durchweg musterhaften Abbildungen dem Leser beinahe das gesamte
+malerische und zeichnerische Werk Grünewalds an die Hand.“
+
+  R. Oldenbourg in Münchner Neueste Nachrichten.
+
+„Sein Bestes gibt Mayer in der systematischen Analyse, die zu der
+Kompositionsweise und zum Farbenaufbau Grünewalds viel Treffendes und
+stets Selbstbeobachtetes sagt, geistvoll das Verhältnis Grünewalds zur
+Naturstudie, zu der Kunst Dürers und zur italienischen erörtert.“
+
+  H. Eßwein in Münchner Post.
+
+„Ein ausgezeichnetes, wohlfeiles, neues Grünewaldbuch, klar und mit
+besonnener Begeisterung geschrieben. Keine deutsche Familie darf
+künftig ganz ohne Grünewald sein. Gerade heute ist Grünewald uns näher
+denn je, einmal, weil er wie keiner Leiden und maßlosen Schmerz, wie
+keiner aber auch die Erlösung des Geistes von der Materie zu künden
+weiß.“
+
+  R. Paulsen in Deutsche Zeitung.
+
+„Wenn ich dieses Buch als Erinnerungs- und Gedächtniswerk rühme, so
+tue ich es nicht zum wenigsten wegen des reichen und trefflichen
+Bildermaterials. In 68 ausgezeichneten Photo-Reproduktionen ersteht
+Grünewalds Werk, soweit es uns überliefert ist. Der „Isenheimer Altar“
+findet besondere Berücksichtigung, und es ist dem Buche vorzüglich zu
+danken, daß dem Leser neben dem Gesamteindrucke jeder Tafel und jeder
+thematischen Folge auch Gelegenheit geboten ist, an Einzelheiten die
+malerische Kraft Grünewalds zu studieren. Er erkennt die wundersame
+Belebung des Details, die psychologischen Erleuchtungen im Ausdruck
+nicht nur des Gesichtes, nein, auch der Haltung, der Hände, der Finger
+neben den genialen malerischen Gesichtspunkten des Arrangements, der
+linearen Komposition und der Bildausfüllung.“
+
+  Richard Rieß in Freie Bahn, München.
+
+
+Delphin-Verlag/München
+
+
+
+
+_AUGUST L. MAYER_
+
+
+El Greco
+
+Eine Einführung in das Leben und Wirken des Domenico Theotocopuli
+genannt El Greco
+
+Mit 70 Abbildungen. Zweite Auflage
+
+Geheftet 7 Mark
+
+Halbleinenband 9 Mark
+
+„Eine sachliche, ruhig abwägende Arbeit, die unbekümmert um
+Modeströmungen ein lebendiges Bild vom künstlerischen Wollen des Greco
+zu entrollen versucht.“
+
+  Kunstwart.
+
+
+Kleine Velazquez-Studien
+
+Mit 15 Abbildungen
+
+Geheftet 7 Mark. Pappband 9 Mark
+
+„Diese Studien zeigen an einigen besonders interessanten Werken aus dem
+Oeuvre des Velazquez, wieviel trotz der Arbeiten von Justi und Beruete
+noch in der Chronologie der Bilder des Künstlers zu tun bleibt. Der
+Verfasser zieht nicht nur ein reiches künstlerisches, sondern auch ein
+umfassendes archivalisch-genealogisches Material zur Prüfung heran.“
+
+  Kunstchronik.
+
+
+Expressionistische Miniaturen des deutschen Mittelalters
+
+Mit 32 Tafeln
+
+Geheftet 21 Mark. Pappband 27 Mark
+
+„Da eine populäre Darstellung mittelalterlicher Miniaturen fehlt, wird
+das Buch sicherlich große Verbreitung finden. Dank und Lob gebühren dem
+Verlag für die gute Wiedergabe und Ausstattung.“
+
+  Das Kunstblatt.
+
+
+Delphin-Verlag/München
+
+
+
+
+_FRITZ BURGER_
+
+
+Cézanne und Hodler
+
+Einführung in die Probleme der Malerei der Gegenwart
+
+Mit 195 Abbildungen. Zwei Bände
+
+Dritte Auflage
+
+Geheftet 26 Mark. Halbleinenband 34 Mark
+
+„Seit Lessings Laookon ist vielleicht nicht wieder ein so tiefgründiges
+Werk über die Probleme der Malerei geschrieben worden.“
+
+  Rheinische Hochschulzeitung.
+
+„Burger bemüht sich, mit dem ganzen Apparat des Kunstwissenschaftlers,
+dem Gesetz der Gestaltung nahezukommen. Er rückt manchmal etwas
+stofflich aber niemals falsch Kunstwerke aus entlegenen Sphären
+zusammen, vergleicht einen Hodler mit einem Klinger, Böcklin, Renoir,
+Runge, einen Cézanne mit Rembrandt, Delacroix, Greco, Tizian, Rujsdael,
+Marées, Trübner, stellt einen Genin neben Millet, einen Gauguin neben
+Corot, Böcklin neben Courbet, Monet neben Matisse, immer mit der
+Absicht, dadurch etwas vom Wesen der Gestaltung und des Gestalters
+anschaulich zu machen.“
+
+  Paul Westheim im Berliner Tageblatt.
+
+
+Weltanschauungsprobleme und Lebenssysteme in der Kunst der Vergangenheit
+
+Mit 65 Abbildungen
+
+Kartoniert 12 Mark. Halbleinenband 16 Mark
+
+„Diese erste Niederschrift eines unvollendet gebliebenen Buches hat den
+vollen Reiz einer Auseinandersetzung mit den tiefsten und drängendsten
+Problemen, die mehr erlebt als durchdacht, mehr gesprochen als
+geschrieben ist.“
+
+  Die bildenden Künste.
+
+„Der erste Versuch, die europäische Kunst in den Komplex der
+Gesamtkunst aller Länder und Zeiten einzuordnen.“
+
+  Der neue Tag.
+
+
+Delphin-Verlag/München
+
+
+
+
+_MAX RAPHAEL_
+
+Von Monet zu Picasso
+
+Grundzüge einer Ästhetik und Entwicklung der modernen Malerei
+
+Mit 30 zum Teil unveröffentlichten Abbildungen
+
+Zweite Auflage
+
+Geheftet 12 Mark. Halbpergament 16 Mark
+
+„Trotz allem aber halte ich, ohne den Ausführungen des Autors in allem
+zuzustimmen, neben den Schriften Kandinskys dieses Buch für die beste
+Orientierungsmöglichkeit über die Bestrebungen der neuen Kunst.“
+
+  Dr. H. Sauermann i. d. Krit. Rundschau.
+
+
+_HERMANN BAHR_
+
+Expressionismus
+
+Mit 20 Kupferdrucktafeln. Vierte Auflage
+
+Geheftet 10 Mark. Pappband 13.50 Mark
+
+„Er scheut nicht die Behauptung, daß in dem Expressionismus die tiefste
+Sehnsucht unserer Zeit nach Ausdruck ringt. Die Welt ist mechanisiert.
+Der Mensch schreit nach seiner Seele. Die Kunst schreit mit. Der Schrei
+nach Geist -- das ist der Expressionismus.“
+
+  Neues Wiener Tageblatt.
+
+
+_MAX PICARD_
+
+Expressionistische Bauernmalerei
+
+Mit 24 Lichtdrucktafeln. Zweite Auflage.
+
+Kartoniert 20 Mark. Halbleinenband 24 Mark.
+
+„Ein Buch, das seinen Wert schon dadurch hat, daß es ein nicht
+beachtetes Gebiet des Kunstschaffens in die Literatur einführt
+und damit überhaupt der Beachtung zuführt. Es handelt sich um die
+Hinterglasbilder, die von einfältig naiven Dorfmalern als Votivstücke
+geschaffen worden sind. Diese primitiven Gestaltungen ursprünglicher
+Menschen, die nichts anderes als ergreifend wirkende Expressionen sein
+konnten, nennt Picard ebenso schön wie treffend, das Volkslied in der
+Geschichte der Malerei.“
+
+  Das Kunstblatt.
+
+
+Delphin-Verlag/München
+
+
+
+
+_KURT GERSTENBERG_
+
+Deutsche Sondergotik
+
+Eine Untersuchung über das Wesen der deutschen Baukunst im späten
+Mittelalter
+
+Mit 41 Abbildungen
+
+Geheftet 14 Mark. Halbpergament 17 Mark
+
+„Das Buch hat außergewöhnliche Qualitäten, ist von ungewöhnlicher
+Intensität und größtem inneren Reichtum. Es gehört zu jenen besten
+Büchern unserer Wissenschaft, die jeder Fachmann lesen muß. -- Der
+Verfasser will nicht die Geschichte der deutschen Spätgotik schreiben,
+sondern ihr Wesen untersuchen und es auf Bekanntes zurückführen, auf
+die Sonderart deutschen Wesens.“
+
+  Dozent Dr. Paul Frankl.
+
+
+_ERNST TROSS_
+
+Das Raumproblem in der bildenden Kunst
+
+Mit 14 Abbildungen
+
+Geheftet 7.50 Mark. Ganzleinenband 10 Mark
+
+„Es handelt sich also nun nicht mehr um das Problem der Form, sondern
+um das Problem des Raumes, -- in der Tat eine wesentliche Klärung
+und Vertiefung jener Theorie. Sein nicht geringes Verdienst liegt
+aber darin, die Fiedler-Hildebrandische Lehre in den philosophischen
+Grundlagen, besonders der Erkenntnistheorie fest verankert zu haben.
+Wer sich um ihre Erfassung und Verarbeitung bemüht, für den wird das
+vorliegende Buch unentbehrlich sein.“
+
+  Monatsheft für Kunstwissenschaft.
+
+
+_JULIE VOGELSTEIN_
+
+Von französischer Buchmalerei
+
+Mit 77 Abbildungen auf 28 Lichtdrucktafeln
+
+Geheftet 25 Mark. Gebunden 30 Mark
+
+„Es wird hier versucht, das Wesen der Illumination als Buchschmuck zu
+erkennen und in diesem Sinne gesondert zu betrachten. In systematischer
+Gruppierung des Materials wird an prägnanten Typen die Beziehung der
+Buchmalerei zur Buchseite in ideeller wie technischer Hinsicht gezeigt.“
+
+  Der Cicerone.
+
+
+Delphin-Verlag/München
+
+
+
+
+_ARTHUR RÜMANN_
+
+Honoré Daumier als Illustrator
+
+Mit 150 Abbildungen
+
+Pappband 16 Mark
+
+„Das geschmackvolle Buch zeigt drei Jahrzehnte französischen
+Bürgertums in einem unvergleichlichen künstlerischen Niederschlag. Ein
+schlichter, anspruchsloser Text verbindet die Fülle ausgezeichneter
+Illustrationsproben, die eine Vorstellung von der unerschöpflichen
+Fruchtbarkeit des Meisters erwecken.“
+
+  Die bildenden Künste.
+
+
+_JOSEFA DÜRCK-KAULBACH_
+
+Erinnerungen an Wilhelm von Kaulbach und sein Haus
+
+Mit Briefen, 160 Zeichnungen und Bildern
+
+Zweite Auflage
+
+Pappband 12 Mark. Halbleinenband 15 Mark
+
+„Der Wert dieses sehr hübschen Buches liegt im rein Menschlichen. Die
+Verfasserin, eine Tochter Kaulbachs, zeichnet die Bilder ihrer Kindheit
+und Jugend, den Kreis ihrer Eltern und Freunde, das alte München
+vor siebzig Jahren ... Es ist ein Stück Großvaterzeit, ein Stück
+Biedermeier, ein Stück Kindheit und verlorenes Paradies.“
+
+  H. Hesse.
+
+
+_LOTHAR BRIEGER_
+
+Das Kunstsammeln/Theorie und Technik
+
+Mit 16 Abbildungen. Zweite Auflage
+
+Pappband 5.50 Mark
+
+„Es handelt sich hier um ein Nachschlagewerk für den Kunstkenner, wie
+er es kürzer, inhaltreicher und handlicher kaum finden dürfte. Für den
+Laien ist es eine Einführung, wie er sie besser gar nicht haben könnte.“
+
+  Werkstatt der Kunst.
+
+
+Delphin-Verlag/München
+
+
+
+
+Kleine Delphin-Kunstbücher
+
+
+Die hübschen Bändchen bringen jeweils mindestens 24 Bilder in
+guter Wiedergabe und geben nach einer knappen Einleitung glücklich
+ausgewählte Proben von Briefen oder auch poetischen oder gedanklichen
+Äußerungen der Meister.
+
+Jedes Bändchen fest kartoniert 1.35 Mark Gesamtauflage eine Million
+
+Bis jetzt sind erschienen:
+
+
+1. Folge
+
+  +Spitzweg+, Reime und Bilder
+  +Schwind+, Briefe und Bilder
+  +Waldmüller+, Bilder und Erlebnisse
+  +Feuerbach+, Bilder u. Bekenntnisse
+  +Richter+, Aus beschaulicher Zeit
+  +Oberländer+, Heiteres und Ernstes
+
+
+2. Folge
+
+  +Rethel+, Der Künstler und Mensch
+  +Rubens+, Der große Flame
+  +Thoma+, Der Malerpoet
+  +Menzel+, Werke und Dokumente
+  +Grünewald+, Der Romantiker d. Schmerzes
+  +Corinth+, Ein Maler unserer Zeit
+
+
+3. Folge
+
+  +Leibl+, Ein deutscher Maler
+  +Murillo+, Der Maler der Betteljungen und Madonnen
+  +Wilhelm Busch+, Lustige Kleinigkeiten
+  +Daumier+, Der Meister der Karikatur
+  +Lionardo+, Bilder und Gedanken
+  +Hosemann+, Der Maler des Berliner Volkes
+
+„Zu den lieblichsten Erscheinungen des Büchermarktes zählen die
+seit einiger Zeit erscheinenden Delphin-Kunst-Bücher, kleine
+Künstlermonographien in Wort und Bild, mit dem Bestreben, Seele und
+Können des betreffenden Künstlers in Kürze, Klarheit und Schönheit zu
+offenbaren.“
+
+  Augsburger Post-Zeitung.
+
+„Hier ist mit feinstem Geschmack in der Bilderauswahl die trefflichste
+Ausgestaltung des begleitenden und einführenden Textes zu einem
+eindringlichen und harmonischen Ganzen gestaltet, sodaß ein lichtvolles
+und wirkliches Bild der Künstlerpersönlichkeit entsteht.“
+
+  Mannheimer Tageblatt.
+
+
+Delphin-Verlag/München
+
+
+
+
+Romane und Novellen
+
+
+  HERMANN ESSWEIN. +Megander, der Mann mit den zween Köpfen. Geheftet
+  3.50 Mark, Halblederband 5.50 Mark.+
+
+  „Ein köstlicher Schalksgeist.“
+
+  Eduard Müller im Gothaischen Tageblatt.
+
+  ALFRED FANKHAUSER. +Peter der Tor und seine Liebe. Geheftet 7 Mark,
+  Pappband 9 Mark.+
+
+  „Alle die suchen, werden von diesem Tagebuch erschüttert, aber auch
+  bereichert und vertieft ihre Lebenswanderung fortsetzen.“
+
+  O. v. Greyerz im Berner Bund.
+
+  HANS FRANCK. +Das Pentagramm der Liebe. Geheftet 7 Mark, Pappband 9
+  Mark.+
+
+  „Die Urströme weiblicher Empfindung an den Quellen gefaßt.“
+
+  Leipz. N. Nachr.
+
+  A. M. FREY. +Kastan und die Dirnen. Geheftet 7 Mark, Pappband 9
+  Mark.+
+
+  „Verblüffend ist die Mischung von Brutalität und Weichheit, Grauen
+  und Komik, Perversität und Keuschheit ..., die dem Leser fast den
+  Atem nehmen.“
+
+  A. Bechthold in „Das neue Buch“.
+
+  A. M. FREY. +Solneman der Unsichtbare. Dritte Auflage. Mit 12
+  Holzschnitten von Nückel. Geheftet 9 Mark, gebunden 12.50 Mark.+
+
+  „Gehört zum Allerbesten, was die phantastische Literatur von heute
+  hervorgebracht hat.“
+
+  Thomas Mann.
+
+  LUDWIG GORM. +Päpstin Johanna. Zweite Auflage. Geheftet 5 Mark,
+  Pappband 7 Mark.+
+
+  „Ein klingendes und duftendes Gedicht menschlicher Liebe und
+  Leidenschaft und sündigen Ehrgeizes.“
+
+  Die Mainbrücke.
+
+  LUDWIG GORM. +Die Kinder von Genf. Geheftet 7 Mark, Pappband 9
+  Mark.+
+
+  „Ein schönes und reiches Buch, voll starker Farben und kraftvoller
+  Linien, voll tiefer Gedanken und eindringlicher Bilder.“
+
+  Fritz Böhme in Warschauer Zeitung.
+
+  HANNS JOHST. +Der Anfang. Geheftet 7 Mark, Pappband 9 Mark.+
+
+  „Ein Dichter mit durchaus eigener Sprache, ein Lohefeuer von Jugend,
+  Begeisterung und einer strahlend frischen Güte!“
+
+  Zwiebelfisch.
+
+  REINHARD KOESTER. +Der Gang des Gottlosen. Geheftet 7 Mark,
+  Pappband 9 Mark.+
+
+  Ein Entwurzelter und Entgötterter ringt, an allem zweifelnd, nach
+  neuem Halt. Freude ist letztes Ziel, dem der Gang des Gottlosen gilt.
+
+
+Delphin-Verlag/München
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 73268 ***
